@@ -1,0 +1,981 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Brief account of His Sacred Majesties descent in a true line male from King Ethodius the First who began to reign Anno Christi, 162 / written in a letter to a friend, anno 1681.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1681</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 126 KB of XML-encoded text transcribed from 18 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A29400</idno>
+            <idno type="STC">Wing B4502</idno>
+            <idno type="STC">ESTC R41275</idno>
+            <idno type="EEBO-CITATION">31354755</idno>
+            <idno type="OCLC">ocm 31354755</idno>
+            <idno type="VID">110251</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A29400)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 110251)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1735:10)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Brief account of His Sacred Majesties descent in a true line male from King Ethodius the First who began to reign Anno Christi, 162 / written in a letter to a friend, anno 1681.</title>
+               </titleStmt>
+               <extent>[2], 35 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by the Heirs of Andrew Anderson ...,</publisher>
+                  <pubPlace>Edinburgh :</pubPlace>
+                  <date>Anno Dom. M. DC. LXXXI [1681]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>James --  II, --  King of England, 1633-1701 --  Family.</term>
+               <term>Great Britain --  Kings and rulers.</term>
+               <term>Scotland --  Kings and rulers.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-08</date>
+            <label>Colm MacCrossan</label>Sampled and proofread</change>
+         <change>
+            <date>2012-08</date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:110251:1"/>
+            <pb facs="tcp:110251:1" rendition="simple:additions"/>
+            <p>A BRIEF ACCOUNT OF His Sacred Majeſtie's DESCENT In a true Line MALE, From KING ETHODIUS THE FIRST, VVho began to Reign Anno <hi>Chriſti,</hi> 162. <hi>Written in a Letter to a Friend,</hi> Anno 1681.</p>
+            <q>Saepè tibi Pater eſt, ſaepè legendus avus.</q>
+            <p>
+               <hi>EDINB<g ref="char:V">Ʋ</g>RGH,</hi> Printed by the Heirs of <hi>Andrew Anderſon,</hi> Printer to His moſt Sacred <hi>MAJESTY,</hi> Anno <hi>Dom.</hi> M.DC.LXXXI.</p>
+         </div>
+         <div type="printer_to_the_reader">
+            <pb facs="tcp:110251:2"/>
+            <head>The Printer to the Reader.</head>
+            <p>
+               <hi>I</hi> Need not, Courteous Reader, tell you, that this was wrote before the laſt <hi>Engliſh</hi> Parliament ſat, for the Paper doth ſo much it ſelf: Let it ſuffice, that I now ſend it abroad, if not for thy ſatisfaction, at leaſt I hope for thy diverſion: uſe it candidly, cenſure it favourably, judge of it charitably, and <hi>Farewell.</hi>
+            </p>
+         </div>
+         <div type="errata">
+            <head>ERRATA.</head>
+            <p>In the 8 Page, Line 23 <hi>read</hi> pi<gap reason="illegible" resp="#MURP" extent="2 letters">
+                  <desc>••</desc>
+               </gap>'d; l. 28. r. <hi>B<gap reason="illegible" resp="#MURP" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>in'<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>;</hi> Page 12 l. 10. <hi>r.</hi> continued; l. 16. <hi>r.</hi> colla<g ref="char:EOLhyphen"/>terals; l. 17 cloſe the parentheſis at Nations) P. 13 l. 40. <hi>r.</hi> Epithetal; p. 14 l. 36. <hi>r. Carantius;</hi> P. 16 l. 17. <hi>r.</hi> the granter; p. 21 l. 1. <hi>r.</hi> enſuring; p. 23. l. 21. <hi>r.</hi> menacing; l. 83. r. tenſe; l. 46 <hi>r. Keth;</hi> p. 24 l. 31. r. Collars; l. 32. <hi>r. Nemo in<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>unt laceſſet;</hi> l. 50. <hi>r.</hi> the Fable; p. 31 l. 17. <hi>ſubjoin to the word Tree,</hi> correſponding to the Lines on the Dexter, <hi>which are miſplaced;</hi> l. 27. <hi>r.</hi> Proavus; l. 34. <hi>r.</hi> Avoque; P. 32 l. 3. <hi>r. glorying;</hi> l. 5. <hi>r.</hi> qui; p. 34 in the laſt Diſtich, <hi>read Po.</hi> at the Pentameter.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb n="1" facs="tcp:110251:2"/>
+            <head>
+               <hi>Edinburgh,</hi> 18<hi rend="sup">th.</hi> 
+               <hi>of</hi> March, 1681.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">T</seg>Hat Buſineſs of Secluding <hi>His Royal Highneſs</hi> from the Imperial CROWN of <hi>England,</hi> is a matter of ſo high concern to this our <hi>Britiſh</hi> world, yea, and in its example to the larger Continent; And being the repeated deſires of the <hi>Commons</hi> in ſome ſucceſsive Parliaments, it may be thought too great a boldneſs, for any ſingle man on this ſide <hi>Tweed,</hi> to concern himſelf therewith. But under favour, as all the Subjects in the three Kingdoms, will or may, ſome one way or other, be intereſſed in the Effects and Sequel of this Affair; ſo it is hoped, that none can juſtly blame any, who is a Subject to the <hi>Monarch</hi> of <hi>Great Britain,</hi> modeſtly to endeavour the ſatisfaction of his Reaſon, Judge<g ref="char:EOLhyphen"/>ment, and Conſcience, in this ſo great a Reſolve; Eſpecially when it was but a hatching, and under deliberation. And though once haſtily paſſed the Vote of the <hi>Commons:</hi> never yet agreed unto by the <hi>Peers,</hi> and by His <hi>Majeſtie</hi>'s Prorogations taken altogether off the File: And now that a new Parliament is within a day or two, to ſit at <hi>Oxford,</hi> which conſiſting moſt<g ref="char:EOLhyphen"/>ly of the ſame Members, perhaps it may be feared, they will bring with them the ſame minds, and fall again upon the Succeſsion, though it is to be wiſhed by all good and peaceable men, that they would ſtudy ſo far to comply with His <hi>Majeſtie</hi>'s Propoſals, as not to irritat Him to any further Prorogati<g ref="char:EOLhyphen"/>ons or Diſſolutions.</p>
+            <p>Allow me then freely Sir, to propoſe to you, my weak thoughts upon this ſo tender a point, equally important to the quiet of His <hi>Majesties</hi> Kingdoms, and the duty of His Subjects, that I may from your better judgement be either fortified in my grounds, or reſolved of my doubts and queſtions. <hi>Firſt</hi> then, as in all Caſes of this nature (for the better avoiding of needleſs wranglings hereafter) let the Queſtion be fairely ſtated, which I humbly conceive may be thus: Whether or not a Prince, of a Religion differing from that by the Laws of the Land eſtabliſhed (be he Popiſh, Heretick, or Idolater) may lawfully (conform to the Principles, and Precepts of our Reformed Proteſtant Pro<g ref="char:EOLhyphen"/>feſsion) by the people or their Repreſentatives in Parliament, whereunto even at laſt the <hi>King</hi> ſhould be induced to conſent, be (I ſay) lawfully ſeclu<g ref="char:EOLhyphen"/>ded from His Birthright and Inheritance? where I underſtand the term <hi>Law<g ref="char:EOLhyphen"/>fully</hi> as conſonant to the true Rules of Juſtice and Equity, and not as an act of a Legiſlative power only.</p>
+            <p>I ſtick not here then upon that Cob-web'd limitation of Birthright, to him only that firſt openeth the womb; and as little upon that quibling Diſtinction of Heirs Preſumptive and Apparent, ſeing the Law ſayes, <hi>Haereditas non tantum ad proximum haeredem, ſed ad ulteriores defer<g ref="char:EOLhyphen"/>tur:</hi> And if his <hi>Highneſs</hi> be not in the Caſe, the next Heir, why are the <hi>Commons</hi> ſo preſsing for his Secluſion? And as none, I hope, will deny his Title by
+<pb n="4" facs="tcp:110251:3"/> Blood, ſo as little need I to prove, that the Imperial CROWN of <hi>England</hi> is an Hereditary <hi>Crown,</hi> which deſcends to the lawfull Succeſſors, by all Laws and Rights of Nature, Nations, and the Land, as their undoubted Birthright and juſt Inheritance, without exception of, or relation to Sex, Age, Quali<g ref="char:EOLhyphen"/>fication, Limitation or Reſtriction whatſomever. So you will yield me (I hope) that the next appparent Heir of ſuch an Hereditary <hi>Crown,</hi> hath at leaſt <hi>Spem Succedendi,</hi> which is to him <hi>Jus quoddam,</hi> as in all other He<g ref="char:EOLhyphen"/>ritages.</p>
+            <p>So then, this Secluſion being <hi>Exhaeredatio,</hi> it falls to be conſidered, what is neceſſarily required before ſuch a diſinheriting can be in my ſence <hi>Law<g ref="char:EOLhyphen"/>full.</hi> And I hope you will grant, that <hi>Omnis Exhaeredans debet habere Ex<g ref="char:EOLhyphen"/>haeredatum ſua in Potestate.</hi> I know there be who would thirle this Theo<g ref="char:EOLhyphen"/>reme to the <hi>Patria Poteſtas</hi> only, which yet from the deductions of clear ſenſe and reaſon, muſt be equally extenſive to all who challenge a juſt pow<g ref="char:EOLhyphen"/>er and right to Diſinherit. And I ſuppoſe I need not here demur upon that diſtinction, betwixt a naked and ſupine Preterition, and an active and formal Excluſion. And ſo will next come to be conſidered, How far the apparent Heir of an Hereditary <hi>Crown,</hi> is under the power of the People or Parliament, in order to the Diſinheriting him from the <hi>Crown</hi> of his Anceſtors, due unto him by his right of Blood; for we are not here in <hi>Regno conſtituendo,</hi> but in <hi>Regno haereditario jamdudum legitime conſti<g ref="char:EOLhyphen"/>tuto.</hi>
+            </p>
+            <p>Then I ſay, that the apparent Heir of ſuch an Hereditary CROWN, cannot be Diſinherited by the People or Parliament: becauſe that Power which can Diſinherit, can alſo make and conſtitute. For, <hi>Qui poteſt hare<g ref="char:EOLhyphen"/>dem praeterire aut exhaeredare, poteſt etiam haeredem ſibi inſtituere.</hi> And ſhould the People, Commons, or Parliament, be but once gratified in this Point, it is to be feared, they might be tempted to aſſume to themſelves other things.</p>
+            <p>So that here the <hi>Commons</hi> cannot <hi>Exhaeredare,</hi> becauſe that were well nigh to give the People a Power to make and unmake Kings at their plea<g ref="char:EOLhyphen"/>ſure, and ſo unſenſibly unhinge the Hereditary <hi>Monarchy,</hi> that it would at laſt lodge the Supremacy in the <hi>Populace.</hi>
+            </p>
+            <p>And though the <hi>Commons</hi> ſhould in a forward zeal, haſtily paſs ſuch a Vote, yet the <hi>Peers</hi> could not agree to it; becauſe at the <hi>CORONATION</hi> of the KING, in their Oath of <hi>Homage</hi> and <hi>Fealty,</hi> they ſwear to be faithful and true to the Crowned <hi>King,</hi> and His Heirs Kings of <hi>England:</hi> yea not only the Peers, but all the Feudataries in the Realm, who hold their Land of the <hi>Crown</hi> in <hi>Capite,</hi> are by the nature of their Inveſtitures tyed to this <hi>Fealty,</hi> whether the Oath be formally adminiſtred or not: and whereof the firſt indiſpenſible branch is by the Lawyers worded, <hi>quod fidelis Domino ſuo &amp; Haeredibus ejus erit in perpetuum.</hi> How then can any Peer who was preſent at the <hi>CORONATION,</hi> or yet any Feudata<g ref="char:EOLhyphen"/>ry, who holds his Eſtate in <hi>Capite</hi> of the <hi>Crown,</hi> by a free and voluntary act of his own, vote the Diſinheriting and Secluding of the righteous Heir, and undoubted Succeſſor? For queſtionleſs this Fealty, maugre all the Alpha<g ref="char:EOLhyphen"/>betical niceties of <hi>Domino vero meo,</hi> &amp;c. ſtands from the Obligations of
+<pb n="5" facs="tcp:110251:3"/> Gratitude, beyond all Equivocation, conſcientiouſly binding to the Suc<g ref="char:EOLhyphen"/>ceſſors of blood in all the Negative tyes, though the duties to the preſent Superior be ſtronger in the Poſitives.</p>
+            <p>Neither could His <hi>Majeſty</hi> paſſe, or give conſent to ſuch an act, Becauſe by His <hi>Coronation-Oath,</hi> He ſwears to maintain the Subject in His Right, Liber<g ref="char:EOLhyphen"/>ty, and Property. And ſince his <hi>Highneſs</hi> is His <hi>Majeſties</hi> Subject (though one of His Greateſt &amp; Nobleſt Subjects) and that as an apparent Heir, he hath <hi>Spem ſuc<g ref="char:EOLhyphen"/>cedendi,</hi> and that the CROWN is an ancient Hereditary <hi>Crown:</hi> The KING cannot take away His only Brothers <hi>Spem ſuccedendi,</hi> Becauſe it is by blood, his undoubted right, from the unalterable Law of Nature, ratified by the Law of Nations and ſecured by the Law of the Land, and nature of the <hi>Crown,</hi> which is Hereditary, and which fixes it beyond the fears of being altered by either <hi>King</hi> or <hi>Parliament</hi> from that Paradoxical <hi>State-immortalitie</hi> of an Hereditary Monarch. And if an Act of <hi>Parliament</hi> can alter the Succeſ<g ref="char:EOLhyphen"/>ſion, by excluding or paſsing by the righteous Heir; dare I ask if an Act of <hi>Parliament</hi> could clip the Commons in their <hi>Magna Carta,</hi> could but the King and Peers fall upon a packed <hi>Rump,</hi> or a <hi>Marvellous Parliament</hi> that could <hi>work wonders,</hi> though under the Epithet of <hi>Indoctum</hi> or <hi>In<g ref="char:EOLhyphen"/>ſanum.</hi>
+            </p>
+            <p>Yea, ſhould the King, Peers, and Commons agree, to paſſe ſuch a Bill in Act, yet would ſuch an act of Secluſion, be but in it ſelf void and null, Becauſe it would be <hi>contra jus Coronae</hi> that great Law, which virtually and Originally, is a parcel of the Law of the Land, and that part of their Common Law, which hath the precedence of all Laws and Cuſtoms of <hi>England.</hi> And if <hi>omnis actus Parliamenti, vel conſuetudo Regni; quae ſe ex<g ref="char:EOLhyphen"/>altet in Praerogativam Regis,</hi> be ſaid to be void in Law, how binding will an Act of Secluſion be, which ſtrikes not only againſt the Right and Prerogative, but undermines the very Nature and Beeing of an Heredi<g ref="char:EOLhyphen"/>tary <hi>Crown.</hi>
+            </p>
+            <p>And as for his <hi>Highneſs</hi> being of a different <hi>Religion,</hi> and the great noiſe rais'd upon that. <hi>Firſt,</hi> To differ in perſwaſions of Religion, while men retain the general name of <hi>Christian,</hi> does not make up a Crime, Merito<g ref="char:EOLhyphen"/>rious of Secluſion. <hi>Secondly,</hi> Religion it ſelf, under whatever notion, is neither eſſentially conſtitutive, or indiſpenſibly ſecluſive of Magiſtracy, where the Royalty is Supreame, and Hereditary. For, ſhould an appa<g ref="char:EOLhyphen"/>rent Heir be diſinherited by a <hi>Proteſtant</hi> Parliament, for being a <hi>Papiſt,</hi> why not a <hi>Prelatick</hi> heir by a <hi>Presbyeterian</hi> Parliament? And why not a <hi>Presbyterian</hi> by an <hi>Independant,</hi> an <hi>Independant</hi> by an <hi>Anabaptiſt,</hi> and he by a <hi>Quaker,</hi> and ſo on. Is not this not only to found Dominion in Grace, but even Property and heritage, in Grace. For an Hereditary Crown, is by Birth<g ref="char:EOLhyphen"/>right ſo far the Succeſſors property &amp; heritage, as that by all laws, he lawfully Succeds to the ſame <hi>Jure ſanguinis et haereditario,</hi> in right of his Progenitors. And if a Prince may be thus Secluded from his Inheritance, for difference of Religion, why ſhould not the ſame be extended to all others, who claim any Heritage by right of Blood from their Predeceſſors? For, <hi>ubi eadem ratio, ibi idem jus,</hi> and ſo a Popiſh Son ſhould not ſucceed to his Prote<g ref="char:EOLhyphen"/>ſtant Fathers Eſtate: <hi>&amp; ſic de caeteris.</hi> And it would be ſeriouſly conſi<g ref="char:EOLhyphen"/>dered, what a door this opens to the Papiſts, for that principle of depo<g ref="char:EOLhyphen"/>ſing and disinheriting of Heretical Kings. And I ſuſpect the Doctrinal dif<g ref="char:EOLhyphen"/>ference
+<pb n="6" facs="tcp:110251:4"/> betwixt Secluding and Depoſing in this preſent Caſe in hand, is but too Metaphyſical for ſound Chriſtian Politicks, and all the Argu<g ref="char:EOLhyphen"/>ments that ever I yet heard, for that way of diſinheriting, by an Act of Secluſion, were all but <hi>ab incommodo,</hi> inconveniencies, jealouſies and fears; which I fear can never juſtifie Proteſtant Subjects, to take away the Birth<g ref="char:EOLhyphen"/>right from their lawful and Hereditary Prince.</p>
+            <p>For, as Magiſtracy is an Emanation of Gods power, as Creator, who is thereby pleaſed to Govern and preſerve the World from Confuſion. The difference of Religion does not nullifie his Office, as by our <hi>Confeſſion of Faith</hi> is juſtly acknowledged: ſo Inheritance being a Gift of Gods bounty and providence from him as Almighty, and as he manifeſts his Diſpenſati<g ref="char:EOLhyphen"/>ons, or as the Schoolmen phraſe it, as he is pleaſed to act <hi>in Regno Naturae;</hi> difference in Religion (I ſay) does not hinder either wicked or Heretical perſons or Kings, to inherit their Eſtates, Civil Powers, Dignities, and He<g ref="char:EOLhyphen"/>reditary Crowns, becauſe Religion ſtands lifted under the Collours of <hi>Re<g ref="char:EOLhyphen"/>guum Gratiae,</hi> whoſe Laws are not deſtructive to the Laws of Nature and Nations, according to the trit ſaying <hi>jus Gratiae non tollit jus Naturae vel Gentium.</hi> So let us not, for the ſecuring of our Kingdoms, from fears of dubious events, preſume to confound the diverſified (though fixed) me<g ref="char:EOLhyphen"/>thods uſed, or offer to remove the Land-marks ſet, by <hi>Jehovah Zebaoth,</hi> in the managing of his Kingdoms of Nature and grace.</p>
+            <p>For I do a little doubt, if too forward a zeal for the preſervation of the Proteſtant Religion, or of any Religion that flows from <hi>Chriſt</hi> the Son, as Saviour and Mediator, will juſtifie the taking away from our Prince and Neighbour, that which by the Laws of Nature, Nations and the Land, he hath gotten beſtowed upon him, by the bounty, favour, and providence of <hi>God</hi> the Father, as Creator and Preſerver of the Univereſe, and the great and eternally loving Benefactor to mankind.</p>
+            <p>And will it not be a harſh reflection upon the Proteſtant Religion, that it cannot be ſecured, unleſs its Profeſſors run into the ſame ways ſo much by themſelves condemned in ſome of the Papiſts. For I look upon the diſ<g ref="char:EOLhyphen"/>inheriting of the Apparent Heir, as much of kin to their Depoſing of Kings not of their own perſwaſion. And believe me the Birthright and Blood of Princes ſtand not many ſteps diſtant; and we have an ordinary ſaying, <hi>who takes away my livelyhood, takes away my life.</hi> And if the Birthright of an he<g ref="char:EOLhyphen"/>reditary Prince, be not his livelyhood, ſure it is his honour, and the ho<g ref="char:EOLhyphen"/>nour of a Prince is the life of a Prince.</p>
+            <p>And the Proteſtant Religion will be driven to a hard pull, if we cannot keep it but by breaking ſome of the Rules and Precepts of it, and away with that <hi>ex duobus malis, &amp;c.</hi> where the Election is allowed only <hi>in malis Poenae,</hi> but can in no Chriſtianity be extended <hi>ad mala Peccati.</hi> For ſays not <hi>Paul, We ſhould not do evil that good may come of it.</hi> And if it be an evil, or injury to take from a man his Birthright, why ſhould that injury be done to <hi>His Royal Highneſs,</hi> ſeing it is ſaid by Divines that <hi>injuriam homini eti<g ref="char:EOLhyphen"/>am ſceleſtisſimo facere, nemo ſine peccato poteſt.</hi> And ſhould the people in their Repreſentatives, be but once authorized to Seclude an hereditary Prince from his Royal Office and Dignity, it might be feared, they would
+<pb n="7" facs="tcp:110251:4"/> itch to do the like, to the function and very foundations of Government it ſelf: a near and recent parallel inſtance whereof, we have freſher in our memories then it needs to be named.</p>
+            <p>And to repreſent to His <hi>Majeſty,</hi> that there is no ſecuring of the Prote<g ref="char:EOLhyphen"/>ſtant Religion, except he condeſcend to the Secluſion of His only <hi>Brother,</hi> ſeems <hi>firſt,</hi> to be a ſtrnage limitation of the <hi>Holy one of</hi> Iſrael; For, what if his <hi>Highneſs</hi> ſhould quit his perſwaſion? or what if His <hi>Majesty</hi> ſhould Sur<g ref="char:EOLhyphen"/>vive? <hi>ſecondly,</hi> Does not this look too like a preſcribing unto the pru<g ref="char:EOLhyphen"/>dence of other Parliaments: For what if ſubſequent Parliaments might fall upon ſmoother and calmer Methods for equally ſecuring of Religion as Pro<g ref="char:EOLhyphen"/>teſtants, and ſalving of their duty as Subjects, to the equal Satisfaction of the Chriſtian World, and their own Conſciences. <hi>Thirdly,</hi> Shall the poſitive advice be <hi>no other way,</hi> and why the advice, and why ſo positive? Be there not many Members in the <hi>Commons Houſe,</hi> who are Feudataries of the <hi>Crown,</hi> and being honoured in their Parliamentary capacities, to give Coun<g ref="char:EOLhyphen"/>cil to the King <hi>in arduis Regni,</hi> are they not by their Feudal fealty to adviſe their Lord <hi>Paramount</hi> to nothing but what is <hi>honeſtum.</hi> For this is one of the ſix by a Homager required, that when admitted to the conſults of his Ma<g ref="char:EOLhyphen"/>ſter, <hi>ut quae Domino honeſta ſunt conſulat.</hi> Say now then, and ſay ingenuouſly, will the expecting World, or after Ages ſay, that it is <hi>honeſtum</hi> for <hi>Charles</hi> to Seclude and Disinherit <hi>James,</hi> his only Brother, and in the caſe of Survi<g ref="char:EOLhyphen"/>vage, the only Son of <hi>Charles</hi> the <hi>Martyr,</hi> yea the only Heir Male of the Illuſtrious Royal <hi>Line</hi> aftermentioned? or by disintereſſed or unbyaſſed per<g ref="char:EOLhyphen"/>ſons, will it be judg'd altogether <hi>honestum,</hi> for Feudatory Subjects, again and again, to preſs the advice of Secluding ſuch an Heir, eſpecially in a for<g ref="char:EOLhyphen"/>tuitous event, which may be, or may not be?</p>
+            <p>I need not I hope tell you Sir, that though here I urge ſome Arguments from the Feudal Law (preſsing enough I conceive upon Vaſſals who are not willing to hazard a Diſclamation of their Honours and property) yet you know I look not upon Monarchy (as betwixt Prince and People) to be with<g ref="char:EOLhyphen"/>in the verge of Feudal Contracts, knowing Kingdoms to be <hi>extra commerci<g ref="char:EOLhyphen"/>um,</hi> holding only of the <hi>King</hi> of <hi>Kings.</hi>
+            </p>
+            <p>But if ever it ſhould pleaſe God, in his All-wiſe-diſpenſations, to ſuffer the Crown to deſcend to a <hi>Popiſh Succeſsor,</hi> I put the Query, Whether it be more conſonant for Proteſtant Chriſtians to ſubmit to the Almightie's ſecret will, and bewail our condition, laying our mouths in the duſt, while we examine whether or not the abuſe of the Proteſtant Religion in this Iſle, making a mask thereof, and alledging grounds therefrom, for rebelling againſt the beſt of Princes, might not in ſome meaſure have provoked God to ſuffer a <hi>Popiſh Succeſſor,</hi> (which yet whatever be his private opinions I do not here charge upon his Highneſs,) ſeing the late unnatural Rebellion, drove his pious Father to that neceſſity, that he was not able to keep nor maintain His Family, or educat His Children as he would. And belyke earneſt ſupplicati<g ref="char:EOLhyphen"/>ons to God (in whoſe hands are the hearts of Princes, to turn them whetherſo<g ref="char:EOLhyphen"/>ever he liſteth) under an humble ſence thereof, might be more Chriſtian, and conſiſting with the Principles of the Proteſtant perſwaſion, then a wilful Se<g ref="char:EOLhyphen"/>cluding and diſinheriting of him. And whatever may fall out in matter of fact, or what people has done in ſuch caſes (for I am only here upon the point of
+<pb n="8" facs="tcp:110251:5"/> right) ſure it was a good obſerve that was given upon <hi>Joſiah,</hi> that God did in him, bleſſe the Jewiſh nation, with one of the beſt of their Kings, becauſe they rebelled not againſt, nor did caſt off his wicked Predeceſſors <hi>Amon</hi> and <hi>Manaſseh.</hi>
+            </p>
+            <p>I know the <hi>Engliſh</hi> have ready at hand, to inſtance and urge their late <hi>Marian Perſecution,</hi> with the miſerable, bloody, and diſmal ſeverities there<g ref="char:EOLhyphen"/>of, which I can much eaſier regrate then juſtifie or excuſe. Yet might I, in behalf of a miſled zeale (ordinary to the weaker ſex) be but indul<g ref="char:EOLhyphen"/>ged to repreſent, that thoſe times and ours will hardly in all things run parallel. I could Suggeſt, that <hi>Hendrie</hi> the eigth, having departed from the Church of <hi>Rome,</hi> he quitted the ſtage of the World, before the Pro<g ref="char:EOLhyphen"/>teſtant Profeſsion was in his Kingdoms well ſettled by Law. And his Son <hi>Edward</hi> the ſixth ſucceeding young, when moſt of the Nobility, and many of the Nation ſtood Popiſhly affected; the matter of Religion came not in his ſhort Reign to be ſo legally adjuſted. So methinks (without of<g ref="char:EOLhyphen"/>fence) I might even out of compaſsion to a Foeminine frailty (ſtill zealous for their own opinions) wink a little at ſome ſhadow of extenuation, in favours of <hi>Mary,</hi> from the then ſtanding and unrepealed Statutes. But now that it hath pleaſed God, under the happy Reign of Queen <hi>Elizabeth,</hi> and her Proteſtant Succeſſors, to ſtrengthen that Profeſsion by all juſt and Legal conſolidations. Little I ſhould hope may now be feared of altera<g ref="char:EOLhyphen"/>tion from his <hi>Highneſs</hi> (ſhould he even ſucceed in a Popiſh perſwaſion) ſince his juſtice is ſo not our the World over, that (where he is not pic<g ref="char:EOLhyphen"/>pu'd below the Grandeur of His Birth) he glories to be an example of Obedience to the Laws of the Land, and whoſe intereſt certainly it will prove not to diſturbe them: and who from a tenderneſs of conſcience free<g ref="char:EOLhyphen"/>ly allows his Children to be educat, and his Family exerciſed in the Pro<g ref="char:EOLhyphen"/>teſtant Profeſsion, as by the Laws and Church of <hi>England</hi> eſtabliſhed and injoyned. And who, beſides his perſonal Character, and innate modera<g ref="char:EOLhyphen"/>tion ſtands a little ingaged, in favours of His Race and Anceſtors, not to forget the Hiſtorians obſerve, that <hi>Stuartorum Genus,</hi> was <hi>Lene &amp; tempera<g ref="char:EOLhyphen"/>tum. Let us then be afraid to refuſe the watters of</hi> Schiolah, <hi>that go ſoftlie leaſt the Lord be tempted, and bring upon us the waters of the River, ſtrong and many, even with the King of</hi> Aſſyria, <hi>in all his glory. Nay, rather let us be<g ref="char:EOLhyphen"/>times ſend ſome of our humors and opinions to be waſht at the Pool of</hi> Siloam, <hi>that ſo ſeing our mistakes, we may ſtudie to build and cover the walls thereof, even to to the Stairs that go down to the Citie of our</hi> David, <hi>nigh to the Kings Garden, then thus fooliſhlie to fancie any ſolid rejoicing in ſome popular</hi> Rezius <hi>or</hi> Re<g ref="char:EOLhyphen"/>malialis <hi>ſones.</hi>
+            </p>
+            <p>But ſuppoſe the worſt, that a jealous and fearful fancy can ſuggeſt, I would gladly ask the <hi>directors of our conſciences,</hi> if it be lawful for Subjects in whatever capacity to reject or refuſe their Native and undoubted Prince, for fear of Perſecution under His Government, ſeing God hath gained as much Glory in the perſeverance and Martyrdom of His Saints as in any ſtate of the Church Militant whatſomever: And though the dayes of Perſecu<g ref="char:EOLhyphen"/>tion be hot, ſad, and lamentable trials, yet ſhould Chriſtians hazard upon an act of injuſtice to avoid them when they lie but ſuppoſedly lurking under the remoter skirts of jealouſies and feares, which depend upon more uncertain events.</p>
+            <pb n="9" facs="tcp:110251:5"/>
+            <p>Thir few grounds (Sir) with other reaſons too large for a Letter do hi<g ref="char:EOLhyphen"/>therto ſufficiently convince me of the juſtice of the <hi>Peers,</hi> in their rejecting the Bill of Secluſion. Not that I deſire any wayes to reflect upon the Honou<g ref="char:EOLhyphen"/>rable Members of the Commons, who might have gone upon grounds I know not. Thir my reaſons and doubts, I only propoſe for my own ſatisfaction, <hi>Veri inveſtigandi cauſa,</hi> and I hope the <hi>Commons</hi> will grant, that Parliaments may erre, and that zeal ſome times may prompt even good men to outrun their duty. And it were worth the while ſeriouſly to conſider, how far a Secluſi<g ref="char:EOLhyphen"/>on of this nature, may be thought to participate of, or dip upon the dan<g ref="char:EOLhyphen"/>gerous Principles of <hi>Buchanan, Brutus</hi> his <hi>Vindiciae, Boucherus, Rutherford's</hi> Lex Rex, <hi>Nepthali,</hi> and the <hi>Jus Populi vindicatum.</hi>
+            </p>
+            <p>And which makes me ſtill the more admire His Majeſties Juſtice, Piety and Prudence, in His Propoſals by His <hi>Chancellor,</hi> to one of His late Parlia<g ref="char:EOLhyphen"/>ments, is, that granting the Act of Secluſion ſhould paſſe, what further ſecu<g ref="char:EOLhyphen"/>rity can our Proteſtant Religion be in, by ſuch an Act, then by the Propo<g ref="char:EOLhyphen"/>ſals made by the King? Nay, ſurely in a worſe condition, from a Succeſſour irritated by an Act of Excluſſion, which for my Reaſons aforeſaid, is but void in Law, and ſo explained in all emergent Caſes of that nature. For can an Act of Parliament, Secluding JAMES of <hi>York</hi> from the <hi>Crown,</hi> becauſe a <hi>Papiſt,</hi> be of greater force, then was the Act of <hi>Richard</hi> the 3. againſt <hi>Hen<g ref="char:EOLhyphen"/>ry</hi> of <hi>Richmount,</hi> then attainted of Treaſon? Not here to ſpeak of the Acts concerning the drumbly ſucceſson of <hi>Henry</hi> the 8. And me fears the renew<g ref="char:EOLhyphen"/>ing the Bill of Secluſion, will by ſome be thought hardly well to conſiſt in all things, with the Oath of <hi>Supremacie:</hi> For if the King be the Supreame Judge, in all Cauſes and over all Perſons, and that his Judgement hath been once and again tryed, and his ſentiments ſufficiently known in this matter of Secluding his Brother from the Crown, to provoke His Majeſty to give his judgment therein again <hi>Superiiſdem deductis,</hi> may by ſome I ſay be thought too like a tacit declining of the Kings Supremacy. For what <hi>Pedaneous</hi> judge will readily alter his ſentence upon a Reclamation <hi>Super iiſdem deductis?</hi> and con<g ref="char:EOLhyphen"/>ſidering the preſent poſture of affairs in <hi>Europe,</hi> were it not as much for the true intereſt of the Proteſtant Religion, that the Parliament ſhould here wave the point of Succeſsion, and fall cordially to conſider, and vigorouſly to com<g ref="char:EOLhyphen"/>ply with His <hi>Majesties</hi> Propoſals (truſting God with the event of the two Royal Brothers ſurvivage) then by too obſtinately ſtickling upon ſo near and dear a concern to the King, loſe ſo many fair opportunities of doing much good to Religion, King and Kingdoms.</p>
+            <p>And believe me (Sir) I write not thir things as being either Popiſh or Po<g ref="char:EOLhyphen"/>piſhly affected, but ſincerely from the Obſervations I have taken up of Chriſti<g ref="char:EOLhyphen"/>anity in its primitive Latitude, before it came to be ranked and rended by an Act of <hi>Claſsis.</hi> And needs muſt I confeſs, that my zeal participats not ſo much of the Son of <hi>Zebedeus</hi> fire, but that I can have charity to think there be many who have given up their names to the Church of <hi>Rome,</hi> that do not yet believe all the Idolatrous fopperies either practiſed in, or charged upon her, although I can ſo far regrate the growth and increaſe of Popery, that for the ſurer inſtructing of the Vulgar, I do heartily wiſh the old and ſolid way of <hi>Catechetical</hi> teaching were more conſtantly plyed and revived. For the run<g ref="char:EOLhyphen"/>ning of a glaſs upon a deſultatory Text, cannot much confirm them and as little does a <hi>Polemical</hi> diſcourſe edifie an apron'd auditory. Hence take the
+<pb n="10" facs="tcp:110251:6"/> ſubtile <hi>Jeſuits</hi> (I fear) too great advantage, under their party-colloured Vizorns to inveigle, deceive, and even to Rebellions debauch, the giddy, unſtable, and not well grounded Plebeians. I ſpeak not this any way to reflect upon the Reverend Clergy, but if the Fathers of the <hi>Church</hi> think fit more ſeriouſly to recommend to the Incumbents the <hi>Cateehetical</hi> way, for their evening exerciſe, it might (perhaps) in this juncto be of good uſe to eſtabliſh the Comonality in the ſound grounds of true Chriſtianity.</p>
+            <p>But to return, let me tell you, His <hi>Majeſtie</hi> hath but reaſon by all juſt and fair means to defend the <hi>Crown,</hi> in the true and righteous Heir Male, if he but either memember or conſider, that He and His Royal Brother, are by the bleſsing and Providence of Almighty God, deſcended of moſt Roy<g ref="char:EOLhyphen"/>al Blood, in a true Line Male, lawfully from Father to Son (Kings, or Princely Cadets) for beyond fifteen entire Centuries. But, let me not be miſtaken, For I am not to ſay that all His Majeſties Progenitors were in this account Kings, but that they were all by Agnation Cadets and Deſcen<g ref="char:EOLhyphen"/>dants of the Royal Family, I hope to evince. For as to His deſcent from King <hi>Fergus</hi> the firſt, by ſome interpoſition of Daughters, the ſame is clear, obvious, and beyond contradiction, ſufficiently by our Hiſtorians and others already eſtabliſhed. But here my aſſertion is repeated, that His Sacred Ma<g ref="char:EOLhyphen"/>jeſty, and His Royal Brother are lawfully deſcended from King <hi>Ethodius</hi> the firſt, and that by Princes or Princely Deſcendants in a true Line Male, from Father to Son, as I have already expreſſed it.</p>
+            <p>You know then (Sir) that <hi>Ethodius</hi> the firſt of that Name, and twen<g ref="char:EOLhyphen"/>ty fifth King of SCOTLAND, was Siſters Son to King <hi>Mogallus,</hi> and Succeeded to His Couſin King <hi>Conarus,</hi> about the year of our Saviour 162. when the two Collegiat <hi>Antonin's Philoſophus &amp; Verus</hi> govern'd the <hi>Roman</hi> Impire. So ſhall I mark <hi>Ethodius,</hi> and his Succeſsion as followeth, giving the letter K. for King, with the figures to ſhow what number the perſons ſo marked ſtood in, and to avoid repetitions of Father and Son, be pleaſ<g ref="char:EOLhyphen"/>ed to underſtand that where the ſame is not ſo nominated, the perſon over<g ref="char:EOLhyphen"/>head is ſtill Father to him who is placed next immediately below.</p>
+            <pb n="11" facs="tcp:110251:6"/>
+            <p>
+               <table>
+                  <row>
+                     <cell rows="4">Tritavi 7. Proavus.</cell>
+                     <cell>46</cell>
+                     <cell>1</cell>
+                     <cell>
+                        <hi>Ethodius</hi> the 1. K. 25.</cell>
+                  </row>
+                  <row>
+                     <cell>45</cell>
+                     <cell>2</cell>
+                     <cell>
+                        <hi>Ethodius</hi> the 2. K. 28.</cell>
+                  </row>
+                  <row>
+                     <cell>44</cell>
+                     <cell>3</cell>
+                     <cell>
+                        <hi>Athirco,</hi> K. 29.</cell>
+                  </row>
+                  <row>
+                     <cell>43</cell>
+                     <cell>4</cell>
+                     <cell>
+                        <hi>Donald</hi> the 2, and 3. Son to <hi>Athirco.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell rows="5">Tritavus 7.</cell>
+                     <cell>42</cell>
+                     <cell>5</cell>
+                     <cell>
+                        <hi>Fincormachus,</hi> K. 35.</cell>
+                  </row>
+                  <row>
+                     <cell>41</cell>
+                     <cell>6</cell>
+                     <cell>
+                        <hi>Ethodius</hi> or <hi>Achadius,</hi> ſecond Son to <hi>Fincormachus.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>40</cell>
+                     <cell>7</cell>
+                     <cell>
+                        <hi>Erthus,</hi> who with his Father expulſed by the Romans died uncrowned in <hi>Denmark.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>39</cell>
+                     <cell>8</cell>
+                     <cell>
+                        <hi>Fergus</hi> the 2. K. 40.</cell>
+                  </row>
+                  <row>
+                     <cell>38</cell>
+                     <cell>9</cell>
+                     <cell>
+                        <hi>Dongardus,</hi> ſecond Son to <hi>Fergus</hi> the 2. K. 42.</cell>
+                  </row>
+                  <row>
+                     <cell rows="6">Tritavus 6</cell>
+                     <cell>37</cell>
+                     <cell>10</cell>
+                     <cell>
+                        <hi>Conranus,</hi> ſecond Son to <hi>Dongardus</hi> K. 45.</cell>
+                  </row>
+                  <row>
+                     <cell>36</cell>
+                     <cell>11</cell>
+                     <cell>
+                        <hi>Aidanus,</hi> K. 49.</cell>
+                  </row>
+                  <row>
+                     <cell>35</cell>
+                     <cell>12</cell>
+                     <cell>
+                        <hi>Eugenius</hi> the 4. K. 51.</cell>
+                  </row>
+                  <row>
+                     <cell>34</cell>
+                     <cell>13</cell>
+                     <cell>
+                        <hi>Donald</hi> the 4. ſecond Son to <hi>Eugenius</hi> the 4. K. 53.</cell>
+                  </row>
+                  <row>
+                     <cell>33</cell>
+                     <cell>14</cell>
+                     <cell>
+                        <hi>Dongardus,</hi> ſecond Son to <hi>Donald</hi> the 4.</cell>
+                  </row>
+                  <row>
+                     <cell>32</cell>
+                     <cell>15</cell>
+                     <cell>
+                        <hi>Eugenius</hi> the 5. K. 56.</cell>
+                  </row>
+                  <row>
+                     <cell rows="6">Tritavus 5.</cell>
+                     <cell>31</cell>
+                     <cell>16</cell>
+                     <cell>
+                        <hi>Eugenius</hi> the 7. K. 59.</cell>
+                  </row>
+                  <row>
+                     <cell>30</cell>
+                     <cell>17</cell>
+                     <cell>
+                        <hi>Ethſinus,</hi> K. 61.</cell>
+                  </row>
+                  <row>
+                     <cell>29</cell>
+                     <cell>18</cell>
+                     <cell>
+                        <hi>Achaius,</hi> K. 65.</cell>
+                  </row>
+                  <row>
+                     <cell>28</cell>
+                     <cell>19</cell>
+                     <cell>
+                        <hi>Alpinus,</hi> K. 68.</cell>
+                  </row>
+                  <row>
+                     <cell>27</cell>
+                     <cell>20</cell>
+                     <cell>
+                        <hi>Kenneth</hi> the 2. K. 69.</cell>
+                  </row>
+                  <row>
+                     <cell>26</cell>
+                     <cell>21</cell>
+                     <cell>
+                        <hi>Ethus,</hi> ſecond Son to <hi>Kenneth</hi> the 2. K. 72.</cell>
+                  </row>
+                  <row>
+                     <cell rows="6">Tritavus 4</cell>
+                     <cell>25</cell>
+                     <cell>22</cell>
+                     <cell>
+                        <hi>Dorus,</hi> ſecond Son to K. <hi>Ethus</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>24</cell>
+                     <cell>23</cell>
+                     <cell>
+                        <hi>Murdocus,</hi> ſecond Son to <hi>Dorus.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>23</cell>
+                     <cell>24</cell>
+                     <cell>
+                        <hi>Pheachar</hi> or <hi>Ferquhard,</hi> ſecond Son to <hi>Murdocus.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>22</cell>
+                     <cell>25</cell>
+                     <cell>
+                        <hi>Kenneth.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>21</cell>
+                     <cell>26</cell>
+                     <cell>
+                        <hi>Bancho,</hi> Thane of <hi>Loquhaber</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>20</cell>
+                     <cell>27</cell>
+                     <cell>
+                        <hi>Fleance.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell rows="6">Tritavus 3.</cell>
+                     <cell>19</cell>
+                     <cell>28</cell>
+                     <cell>
+                        <hi>Walter</hi> the 1. who gave to his Poſterity the Sirname of <hi>Stewart.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>18</cell>
+                     <cell>29</cell>
+                     <cell>
+                        <hi>Allan</hi> the 1. in the Holy Wars with <hi>Godfroy Bulloigne.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>17</cell>
+                     <cell>30</cell>
+                     <cell>
+                        <hi>Walter</hi> the 2. <hi>Magnus ſceneſcallus Scotiae.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>16</cell>
+                     <cell>31</cell>
+                     <cell>
+                        <hi>Alexander</hi> the 1. Builder and founder of the Abbacy of <hi>Paisley.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>15</cell>
+                     <cell>32</cell>
+                     <cell>
+                        <hi>Allan</hi> the 2.</cell>
+                  </row>
+                  <row>
+                     <cell>14</cell>
+                     <cell>33</cell>
+                     <cell>
+                        <hi>Walter</hi> the 3. commonly called of <hi>Dundonald.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell rows="6">Tritavus 2.</cell>
+                     <cell>13</cell>
+                     <cell>34</cell>
+                     <cell>
+                        <hi>Robert,</hi> Lord <hi>Turboultown</hi> 2 Sonto <hi>Walter</hi> of <hi>Dundonald</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>12</cell>
+                     <cell>35</cell>
+                     <cell>
+                        <hi>John</hi> Lord <hi>Darnly.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>11</cell>
+                     <cell>36</cell>
+                     <cell>
+                        <hi>Robert</hi> Lord <hi>Darnly.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>10</cell>
+                     <cell>37</cell>
+                     <cell>
+                        <hi>John</hi> Lord <hi>Darnly.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>9</cell>
+                     <cell>38</cell>
+                     <cell>
+                        <hi>Allan</hi> Lord <hi>Darnly,</hi> Married to the Daughter of Duke <hi>Murdoch</hi> Oy to the Earl of <hi>Lennox.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>8</cell>
+                     <cell>39</cell>
+                     <cell>
+                        <hi>John</hi> L. <hi>Darnly,</hi> created Earl of <hi>Lennox,</hi> 1482. or thereby.</cell>
+                  </row>
+                  <row>
+                     <cell rows="7">Tritavus 1.</cell>
+                     <cell>7</cell>
+                     <cell>40</cell>
+                     <cell>
+                        <hi>Matthew</hi> Earl of <hi>Lennox,</hi> killed at <hi>Flowdon.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>6</cell>
+                     <cell>41</cell>
+                     <cell>
+                        <hi>John</hi> Earl of <hi>Lennox,</hi> killed at <hi>Linlithgow.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>5</cell>
+                     <cell>42</cell>
+                     <cell>
+                        <hi>Matthew</hi> Earl of <hi>Lennox,</hi> Regent to his Oy K. <hi>James</hi> the 6th.</cell>
+                  </row>
+                  <row>
+                     <cell>4</cell>
+                     <cell>43</cell>
+                     <cell>
+                        <hi>Henry</hi> Lord <hi>Darnly,</hi> Duke of <hi>Rotheſay.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>3</cell>
+                     <cell>44</cell>
+                     <cell>KING <hi>JAMES</hi> the 6. K. 108.</cell>
+                  </row>
+                  <row>
+                     <cell>2</cell>
+                     <cell>45</cell>
+                     <cell>KING <hi>CHARLES</hi> the 1. K. 109.</cell>
+                  </row>
+                  <row>
+                     <cell>1</cell>
+                     <cell rows="2">46</cell>
+                     <cell>
+                        <list>
+                           <item>KING <hi>CHARLES</hi> the 2. K. 110.</item>
+                           <item>JAMES, Duke of <hi>Albany</hi> and <hi>York.</hi>
+                           </item>
+                        </list>
+                     </cell>
+                  </row>
+               </table>
+            </p>
+            <pb n="12" facs="tcp:110251:7"/>
+            <p>And now you ſee (Sir) my aſſertion made good by this <hi>Grand Jurie</hi> of His <hi>Majesties</hi> fourty five Progenitors aforenamed, all of them of the Stem, and Line Royal, lawfully deſcended. And that I may in this Criti<g ref="char:EOLhyphen"/>call and cenſorious Age, be as free of miſtakes as poſsible, Suffer me (good Sir) yet once again to repeat what I have formerly inſinuat, that I do not here by this Deſcent-Male intend to obſfuſcat, or in the leaſt prejudge or diminiſh His Sacred Majeſty of his contingency of blood and cognation to all, or any of His hundred and nine Crowned Predeceſſors, in either their ſtreight deſcendant or Collateral degrees. For that the Crown of <hi>Scotland</hi> hath contained in one certain Family, from K. <hi>Fergus</hi> the firſt (contempo<g ref="char:EOLhyphen"/>rary with the <hi>Grecian</hi> Monarch <hi>Alexander</hi> the Great,) is by all our Hiſto<g ref="char:EOLhyphen"/>ries put beyond any diſpute. And to ſuggeſt any defence againſt the igno<g ref="char:EOLhyphen"/>rance of ſuch who may here miſtake the figuring of our Kings in the de<g ref="char:EOLhyphen"/>grees from Father to Son, as if the one immediatly ſucceeded the other, would but impoſe upon your better knowledge, who does ſufficiently under<g ref="char:EOLhyphen"/>ſtand that the elder Collaterials ſecluded the Deſcendants (as was then al<g ref="char:EOLhyphen"/>ſo cuſtomary in other Northern Nations, untill King <hi>Kenneth</hi> the 3. Civi<g ref="char:EOLhyphen"/>liz'd it to a juſt ſucceſsion in the true and immediat Deſcent.</p>
+            <p>But ſhould this (Sir) ever go further then your Cloſet, I little doubt, but ſome will be apt to ſay, <hi>magno conatu nugas;</hi> and that all men are de<g ref="char:EOLhyphen"/>ſcended in a Line Male from <hi>Adam,</hi> which truly a little Rhetorick could perſwade me to believe: but that all are come, or yet ſo come, of Kings and true Royal Cadets will require more Oratory, before I be proſelyted a <hi>Leveller.</hi> Have I not ſalv'd His Majeſties Deſcent from His Crowned Pre<g ref="char:EOLhyphen"/>deceſſors, even to our King <hi>Fergus</hi> the 1. and ſufficiently obviat what ob<g ref="char:EOLhyphen"/>jections can be raiſ'd againſt me there, having here only but ſingled out the Deſcent-Male, which as it hath the <hi>Preachers</hi> bleſsing, our King even in this branch, being in all its ſteps ſtill the Son of Nobles, ſo if the mourning <hi>Prophet</hi> meant (in that his 35. <hi>chap.</hi>) any good to <hi>Jonadab</hi> the ſon of <hi>Rhe<g ref="char:EOLhyphen"/>hab:</hi> is it not worth the conſidering, that God hath been pleaſed to conti<g ref="char:EOLhyphen"/>nue the Lawful Poſterity of even our laſt Heatheniſh King in a true Line Male to this very day, eſpecially now, when His Majeſty is ſo frequently Addreſ<g ref="char:EOLhyphen"/>ſed to Seclude his only Brother, who equally enjoys the ſame bleſsing with himſelf. But the <hi>Men of Shaftsburie,</hi> with <hi>Gallio,</hi> will care for none of thoſe things, it matters the leſs if His Sacred Majeſty ſhould, who might graci<g ref="char:EOLhyphen"/>ouſly perhaps allow it to add one grain of weight to his fixed royal kindneſs, for the fourty fifth man child, from the Loyns of the firſt <hi>Ethodius,</hi> without any Female interruption, for beyond fifteen hundred years.</p>
+            <p>Yet ſeing even in this Branch of His Majeſties Pedegree above repreſent<g ref="char:EOLhyphen"/>ed, I do not in all things agree with the more conſtant tradition, I beg your leave (Sir) to mark where I differ, intreating you would but patiently hear my reaſons, wherein I ſhall endeavour to be as brief as the clearing of the matter will permit.</p>
+            <p>But as I am writing, One tells me, it will be thought arrogant preſum<g ref="char:EOLhyphen"/>ption in me to alter the received Opinion, or to controvert with <hi>Buchanan, Boes,</hi> or <hi>Skeen,</hi> Good Lord! ſhall we live in an Age, wherein there is ſo much noiſe for the liberty of the Subject, and yet be denyed the liberty of
+<pb n="13" facs="tcp:110251:7"/> reaſon, or reaſoning in the enquiry of truth? I hope there be many good Proteſtants who will not preſſe me to believe all the legendary tales in <hi>Boes;</hi> and I am perſwaded, there be many Loyal Subjects, who will not adviſe me to aſſent to all that <hi>Buchanan</hi> wrote; and I hope common reaſon will convince any man, that in Antiquities, which conſiſts in matter of fact, it is ſafer to pin our faith upon old Charters truly expede by the Granters, and in the times to which they relate, then upon the looſer ſheets of pri<g ref="char:EOLhyphen"/>vate Hiſtorians, writing but ſome Centuries after, who belike if they kept the general threed of the ſtory, did not much either examine or no<g ref="char:EOLhyphen"/>tice the particularities or Genealogies of Families; yea, and in ſome things here controverted, our Antiquaries do not agree with our Hiſtorians; and ſhould you, and I, Sir, to gratifie their miſtaken opinions, <hi>Mahomet</hi>-like, hang between?</p>
+            <p>But to the matter in hand; <hi>Boes</hi> ſayes, <hi>Fincormachus</hi> was the Son of <hi>Cor<g ref="char:EOLhyphen"/>machus,</hi> and here I place him ſon to <hi>Donald</hi> 2. well, we agree however in the main aſſertion. For if <hi>Cormachus</hi> was Couſin-german to <hi>Crathilinthus,</hi> and Brother to <hi>Findocus,</hi> (for <hi>Boes</hi> calls him <hi>Patruus) Athirco</hi> the Grand<g ref="char:EOLhyphen"/>father behooved to be the common <hi>Stipes,</hi> and ſo is yet ſalved the de<g ref="char:EOLhyphen"/>ſcent in a Line Male. But if <hi>Cormachus</hi> was ſon of <hi>Athirco</hi> (which he be<g ref="char:EOLhyphen"/>hoved to be, if he was <hi>Patruus</hi> to <hi>Crathilinthus</hi>) why might not <hi>Boes</hi> have made his Uncle <hi>Dorus</hi> carry him alſo away from the cruelty of <hi>Natholocus,</hi> with his three Brothers <hi>Findocus, Carantius</hi> and <hi>Donaldus?</hi> But alace! <hi>Bo<g ref="char:EOLhyphen"/>es</hi> himſelf (except in this preſent caſe) doth with all our other Hiſtorians give <hi>Athirco</hi> no moe ſons then the three I have juſt now named. But the truth is, That our King, who immediatly ſucceeded <hi>Crathilinthus,</hi> ſhould not have been named <hi>Fincormachus,</hi> but <hi>Cormachus</hi> only; And the mi<g ref="char:EOLhyphen"/>ſtake lay here, that King <hi>Cormeick</hi> or <hi>Cormeig,</hi> (for ſo the old <hi>Highlanders</hi> term him) had the Epithet of <hi>Pheun,</hi> which in the <hi>Iriſh,</hi> or old <hi>Highland</hi> Language, ſignifies fair, (as the Tutor of <hi>M<hi rend="sup">c</hi>leane</hi> informs me) ſo that <hi>Pheun Cormeich</hi> ſhould be no more then <hi>Cormachus Pulcher,</hi> and not <hi>Filius Cor<g ref="char:EOLhyphen"/>machi.</hi> For the <hi>Highlanders</hi> do not make uſe of the Syllable <hi>Fin,</hi> but the Syllable <hi>Mack</hi> and <hi>Vic;</hi> when they intend to expreſs <hi>Patronymicks;</hi> For if <hi>Fin</hi> be a Patronymick Particle, and hold ſo, in the Nephew <hi>Fincorma<g ref="char:EOLhyphen"/>chus,</hi> why not alſo in the Uncle <hi>Findocus?</hi> and ſo if <hi>Fin</hi> ſignifies <hi>Filius,</hi> his father ſhould have been <hi>Docus,</hi> but he was <hi>Athirco;</hi> So that ſuch who have firſt given an account of this King in Latine, perhaps had no great skill in the <hi>Iriſh</hi> Tongue. And finding him alwayes called <hi>Feun Cormeich,</hi> have wrote him <hi>Fincormachus.</hi> And if it be retorted, that if <hi>Fin</hi> be but <hi>Pheun</hi> in <hi>Fincor<g ref="char:EOLhyphen"/>machus,</hi> why ſhould it not be alſo <hi>Feun</hi> in <hi>Findocus?</hi> I anſwer, the Parity holds not in Epithets and Patronymicks, for <hi>Fin</hi> is but Epithetital in <hi>Fin<g ref="char:EOLhyphen"/>cormachus,</hi> to the Perſon <hi>Cormeig,</hi> which is a full and Chriſtned Name, and there are yet a ſtock of people who patronymically Surname themſelves <hi>Mackormeichs,</hi> from one <hi>Cormeich,</hi> the founder of the Family; whereas <hi>Fin</hi> in <hi>Findocus</hi> is nothing but a bare ſyllable of the Chriſtned name <hi>Findoch</hi> (with<g ref="char:EOLhyphen"/>out any ſignification in it ſelf) as yet it ſounds in the name <hi>Finlaw,</hi> common and ordinary with us to this day. And I am told, that <hi>Cormeich</hi> imports in the <hi>Iriſh</hi> as much as an <hi>Odd ſon,</hi> where the word <hi>Odd</hi> cannot relate to number; For <hi>Athirco</hi> having three ſons before, if <hi>Cormeich</hi> was the fourth, then he could not be called an odd ſon in reſpect of number, for <hi>numerus quaternus eſt numerus par, non impar,</hi> ſo that <hi>Odd</hi> muſt relate to a quali<g ref="char:EOLhyphen"/>ty
+<pb n="14" facs="tcp:110251:8"/> equivalent to the word <hi>Strange,</hi> which hath here been given him in re<g ref="char:EOLhyphen"/>ſpect of his Beauty and Fairneſs, of a Countenance be like more becoming a Woman than is allowed to the auſterities of a Virile Complexion, and his Childhood <hi>Cormeich</hi> hath been confirmed in his riper years, by the Epithet <hi>Feun, Cormeich-feun,</hi> an odd ſon for his fairneſs. And for <hi>Buchanans</hi> nam<g ref="char:EOLhyphen"/>ing him <hi>Fincormachus</hi> and not <hi>Cormachus</hi> (who may be ſuppoſed under<g ref="char:EOLhyphen"/>ſtood the <hi>Iriſh</hi> Tongue) it imports not; for being but born in the Eaſtern parts of the <hi>Lennox,</hi> and bred ſtill in places more eaſterly, he might not have underſtood all the <hi>Iriſh</hi> Dialects; but ſuppoſe he did, he writing a Hiſtory impute and neat Latine, thought it not worth the noticing, in his deſigned Theme, to alter in this, the Copies before him; neither ſhould I have meddled with it here, if <hi>Boes</hi> had not expreſly named him <hi>Filius Cor<g ref="char:EOLhyphen"/>machi,</hi> whereas <hi>Buchanan</hi> and <hi>Leſly</hi> ſatisfie themſelves, that he was Nephew to <hi>Findocus,</hi> and Couſin-german to <hi>Crathilinthus,</hi> without naming his Father, who was <hi>Donald.</hi> For when <hi>Dorus</hi> fled with his three Nephews, to the <hi>Picts,</hi> doubtleſs if his brother <hi>Athirco</hi> had had a fourth ſon, <hi>Cormachus</hi> that pious and kind Uncle, would not have left him to the mercy of the cruel <hi>Natholocus.</hi> And it will be but needleſs to ſuppoſe, that <hi>Fincormachus</hi> might have been the ſon of <hi>Carantius,</hi> and not of <hi>Donald;</hi> For <hi>firſt,</hi> that is againſt <hi>Boetius</hi>'s own ſtory. <hi>Secondly,</hi> It makes nothing againſt my great aſſertion, ſeing even by yielding, <hi>Res</hi> but <hi>redit eodem,</hi> that he is ſtill Grand-child by a ſon to <hi>Athirco,</hi> but had he been the ſon of <hi>Carantius,</hi> for whom <hi>Boes</hi> bewrayes ſo much kindneſs (in that his Romantick fable of him) ſure <hi>Cor<g ref="char:EOLhyphen"/>machus</hi> would never, by that Author, have had the honour to father the ſon of ſo noble a Warriour, and King of the <hi>Britons,</hi> as <hi>Boes</hi> makes his <hi>Caran<g ref="char:EOLhyphen"/>tius</hi> to be, amongſt whoſe ſingular atchievements, I wonder why <hi>Boes</hi> (or rather his two ſtipendiary Friers, whom he imployed in the Collection of his Hiſtory) forgot this ſo notable effort of his who having fled as ſuſpe<g ref="char:EOLhyphen"/>cted acceſſory to the murthering of his brother K <hi>Findocus,</hi> and after traver<g ref="char:EOLhyphen"/>ſing moſt part of the <hi>Roman</hi> Impire, had the good fortune, not only to re<g ref="char:EOLhyphen"/>turn to this Iſle, and be inſtall'd King of the <hi>Britons,</hi> before the death of his Goodſyre King <hi>Ethodius;</hi> but alſo to live after he purg'd himſelf of the falſe aſperſion, before his Nephew <hi>Crathilinthus,</hi> which ſtrange adventure (and I pray you mark it) he accompliſhed thus. <hi>Findocus</hi> was murther<g ref="char:EOLhyphen"/>ed in the year of our LORD 263. And if the <hi>Cauraſsius</hi> in <hi>Eutropius</hi> (whom the Engliſh name <hi>Caranſius</hi>) be the ſame perſon with this our <hi>Carnaſius,</hi> (as <hi>Boes</hi> is pleaſed to ſay he was,) then this <hi>Cauraſsius-Carantius-Carauſius,</hi> (who rebelled againſt <hi>Caracalla,</hi> and ſucceeded in the Britiſh Throne to <hi>Baſsianus</hi>) came to be King of the <hi>Britons,</hi> Anno 218. when his Grand-father <hi>Ethodius</hi> the 2. lived till the year 221. And <hi>Crathilinthus</hi> came not to the Crown, till the year 278. and yet <hi>Alectus</hi> governed after <hi>Carantius,</hi> Anno 225. which, when you reconcile to a juſt Synchroniſm, I ſhall the readier believe, that <hi>Cormachas</hi> was father to <hi>Fincormachus,</hi> and ſon to <hi>Athirco,</hi> even notwithſtanding that the Tutor of <hi>M<hi rend="sup">c</hi>leane</hi> tells me, the <hi>Highlanders</hi> with him ſpeak always <hi>Cormeich,</hi> the ſon of <hi>Donald.</hi>
+            </p>
+            <p>But I haſten to <hi>Bancho,</hi> for whoſe Deſcent, as I offer it here from K. <hi>Ken<g ref="char:EOLhyphen"/>neth</hi> the 2. I ſhall preſently be allarum'd with <hi>gratis dictum, gratis dictum.</hi> But ſoft a little, we are not here upon Apodeictick demonſtrations, the caſe and antiquity thereof calls for no ſuch proofs; 'tis fair we come to credit ra<g ref="char:EOLhyphen"/>tional and moral arguments and inducements.</p>
+            <pb n="15" facs="tcp:110251:8"/>
+            <p>I ſhall therefore ingenuouſly tell you, how I did firſt come by the Rela<g ref="char:EOLhyphen"/>tion. A country man of ours (now deceaſed) propoſed to <hi>Charles</hi> late Duke of <hi>Lennox,</hi> to branch a compleat Genealogical Tree of the entire Family of the <hi>Stuarts,</hi> which ſo reliſhed with that Noble Prince, that he brought with him, the laſt time he came to <hi>Scotland,</hi> a Paper, which gives <hi>Bancho</hi>'s Deſcent, from K. <hi>Kenneth</hi> the 2. in all things as I have here, and in the Tree aftermentioned, marked: And which Paper, the Duke ſaid, that his Uncle D. <hi>James</hi> got in the time of the late Troubles, from an in<g ref="char:EOLhyphen"/>genious Gentleman, and lover of Antiquities, as handed down to him from ſome documents, that were carried out of this Kingdom by <hi>Edward Lang<g ref="char:EOLhyphen"/>ſhanks.</hi> The Copy I got from a Gentleman, who had it from Duke <hi>Charles</hi> himſelf. And this account from the Duke of <hi>Lennox</hi> Paper, is agree<g ref="char:EOLhyphen"/>able in all things to the old Highland <hi>Shanchies</hi> rhime they have of the Thane of <hi>Lochabers</hi> Pedegree, and a <hi>Shanchy, Schanchaner,</hi> or <hi>Scheanchie,</hi> (as the <hi>Highlanders</hi> ſpeak) is a perſon who hath charge to notice Genea<g ref="char:EOLhyphen"/>logies, the ſame with <hi>Buchanans Senecio,</hi> and ſuch are yet in uſe with the Lairds of <hi>M<hi rend="sup">c</hi>leane, Mclaud,</hi> and <hi>M<hi rend="sup">c</hi>donald,</hi> and as well K. <hi>Duncans</hi> eſteem and imployments, as <hi>Macheths</hi> fears of this <hi>Banchu,</hi> conjoyned with the Weird-ſiſters reſponſe, his Inheritance and Title of <hi>Lochaber,</hi> with his Oy's com<g ref="char:EOLhyphen"/>ing ſo ſoon into favour, do abundantly ſpeak him a Cadet of the Royal Family. And probable it is, that that <hi>Donald</hi> who kill'd King <hi>Daffus</hi> at the Caſtle of <hi>Forres,</hi> might have been our <hi>Bancho</hi>'s Goodſyres elder Brother; for the Dukes Paper gives <hi>Murdocus</hi> two Sons, <hi>Donald</hi> and <hi>Pheachar,</hi> and the time will well allow it too; for <hi>Duffus</hi> was brother to <hi>Kenneth</hi> the third, and <hi>Culenus</hi> did Raign but four years, and we know with whom <hi>Bancho</hi> was con<g ref="char:EOLhyphen"/>temporary; (and that the old Kings ſpread the wings of the Royal Fa<g ref="char:EOLhyphen"/>mily, firſt to <hi>Galloway,</hi> then to <hi>Lochaber</hi>) and which <hi>Donald</hi> being of the blood Royal, might have had (amongſt other temptations) his ambition ſet on edge, by ſome mock-propheſie from theſe Witches, with whom he truckt for diſcovery of the roaſting the effigie of <hi>Duffus, that he or his, might ſometimes enjoy the Crown,</hi> which was upon a better account renewed ſome years after to his Brothers Oy. And there goes an uncontroverted tradition, that <hi>Bancho</hi> is deſcended of one K. <hi>Kenneth,</hi> and which of the two laſt you pitch upon, is alike tome in the Caſe controverted. For if you cannot go the length of <hi>Kenneth</hi> the 2. hold you with <hi>Kenneth</hi> the 3. for the Grand-father, who was ſon of K. <hi>Malcolm</hi> the firſt, and he ſon to <hi>Donald</hi> the ſixth, and he to <hi>Conſtan<g ref="char:EOLhyphen"/>tine</hi> the 2. who was eldeſt ſon to K. <hi>Kenneth</hi> the 2. and ſo are we but come where we were, and ſtill in a Line <hi>Male.</hi> And do you think, I would willingly quit three Kings for three Cadets, if I thought <hi>Bancho</hi> had been by <hi>Ferquhard</hi> Grandchild to <hi>Kenneth</hi> the 3. But he being deſcended of one of the two laſt <hi>Kenneths,</hi> they have miſplaced his Father and Goodſyre, making the father, who as by the Dukes Paper, ſhould have been <hi>Kenneth</hi> to be <hi>Ferquhard,</hi> and the Goodſyre who ſhould have been <hi>Ferquhard,</hi> to be <hi>Kenneth,</hi> whom they made K. <hi>Kenneth</hi> the 3. For will any think, that if ſuch a martial man as <hi>Bancho</hi> had been Gran-child by <hi>Forquhard</hi> to K. <hi>Kenneth,</hi> the 3. but he might in thoſe dayes (ſo ſhortly after <hi>Kenneths</hi> alteration of the former confuſed way of ſucceeding) have had ſome diſpute for the Crown with the more eaſy natur'd K. <hi>Duncan,</hi> who ſtood in a degree re<g ref="char:EOLhyphen"/>moter, and that by the interpoſition of a <hi>Laſse</hi> too. And I remember that ſome years ago (before ever I did ſee the Paper produced by the
+<pb n="16" facs="tcp:110251:9"/> Duke of <hi>Lennox</hi>) finding one Baron <hi>Mackcorquodale</hi> in the City, and hearing that he had an old Charter from one of the K. <hi>Kenneths,</hi> I went to the Gentleman, who ſeemed not to deny the having of ſuch a Charter, but ſaid it was at home, and that it ſhould have been given to his Predeceſ<g ref="char:EOLhyphen"/>ſor, from one K. <hi>Kenneth,</hi> of whom was deſcended the great Thane of <hi>Lo<g ref="char:EOLhyphen"/>chaber,</hi> and that his Land was given to his Predeceſſor, for bringing away the head of a Scots King from the <hi>Picts,</hi> and that the tradition was by his Pro<g ref="char:EOLhyphen"/>genitors thus handed down unto himſelf, and that his Eſtate was never more or leſſe (except in the improvements of induſtry) and that God had bleſſed their ſmall family in a conſtant Line Male to himſelf, who had then both ſons and brethren alive. And as I believe this Deed or Grant, I ſcarce<g ref="char:EOLhyphen"/>ly dare name it Charter, were it produced to ſuch as can read it, will ap<g ref="char:EOLhyphen"/>pear to be the oldeſt writ of that nature now extant in <hi>Scotland;</hi> ſo may it give encouragement to be Loyal to the living Prince, when this Baron <hi>Mackconquodales</hi> reſpect for the dead, hath been from Heaven ſo ſignally re<g ref="char:EOLhyphen"/>warded. And tho the Gentleman I ſpoke with could not tell me, whe<g ref="char:EOLhyphen"/>ther granter was K. <hi>Kenneth</hi> the 2, or the 3. yet <hi>Boes</hi> in his tenth Book makes it clear to have been <hi>Kenneth</hi> the 2. For when the <hi>Picts</hi> had barbarouſly cut off the head of K. <hi>Alpin,</hi> near to <hi>Dundie,</hi> they affixt it on a Pole, at the principal gate of their chief City, and that ſome Scots young men, having the <hi>Pictiſh</hi> Dialect, and conterfeiting themſelves to play the Merchant, went to the City, ſtole away the Head, and carried it to his ſon King <hi>Kenneth</hi> the ſecond, who was then in <hi>Argyle,</hi> and where (ſayes <hi>Boes</hi>) they were rewarded by the King with Lands and Eſtate. And the Baron of <hi>Mackcorquodale</hi>'s Fortune lyes (I hear) in <hi>Knapdale</hi> in <hi>Argile</hi> Shire; tho with credit to the tradition, yet with favour to the Gentleman, I ſhall hardly think the Charter ſo old; perhaps a later Charter may have ſuch a Narrative, for I queſtion if formal Charters were with us ſo old as <hi>Kenneth</hi> the 2. but the tradition provesall I intend. And <hi>Buchanan</hi> giving the in<g ref="char:EOLhyphen"/>ducements of <hi>Mackbeths</hi> murdering of <hi>Bancho,</hi> ſayes, that he was <hi>homo potens induſtrius, &amp; Regio jam ſanguine imbutus,</hi> which ſounds no other in plain Engliſh, then, That he was a powerful man fitted for action, yea, and more<g ref="char:EOLhyphen"/>over of the Family Royal. And ſo indeed he was, as well by his Deſcent, as by his Marriage, having taken to wife his Couſin <hi>Maud,</hi> daughter to <hi>Phaelus,</hi> who was ſon to <hi>Laeblanus,</hi> ſon to <hi>Garethus,</hi> eldeſt ſon of <hi>Dorus,</hi> and Grand-child to King <hi>Ethus.</hi> So that what I have ſaid, will, I hope, (<hi>in hoc facto antiquo,</hi> wherein there be in all things ſuch an harmonius conſonancy) ſufficiently aſtruct <hi>Bancho</hi>'s deſcent from K. <hi>Kenneth</hi> the 2. And it is of no weight to alledge any thing from the ſilence of our Hiſtorians, who touch little of Genealogies, except in the Crowned heads. Yea, and <hi>Buchanan</hi> belies them in the general, in that his <hi>Regio ſanguine jam imbutus;</hi> though he be not ſpecial in the particular perſons and degrees. And the very col<g ref="char:EOLhyphen"/>lecting or extracting of the forementioned Paper, from the documents car<g ref="char:EOLhyphen"/>ryed away with <hi>Edward Langſhanks,</hi> cannot but fortifie what I have ſaid; For that imperious Victor, deſigning to deface the very remembrance of a Kingdom here, by his taking away, and deſtroying what monuments he could have of our Kings and Kingdom, had he not amongſt others found <hi>Bancho</hi> and his Poſterity near and conſiderable Cadets of the Royal Fami<g ref="char:EOLhyphen"/>ly, I doubt if that Paper had (as I have related it) ever come to the hands of an Engliſh Gentleman, and queſtionleſs the repeated preferments and high truſts that K. <hi>Duncan</hi> heaped on <hi>Bancho,</hi> as well in the inteſtine Commo<g ref="char:EOLhyphen"/>tions,
+<pb n="17" facs="tcp:110251:9" rendition="simple:additions"/> as in the Wars with the <hi>Danes,</hi> which happened in that Kings time, ſpeaks him lowdly to have been his near Kinſman. And beyond all perad<g ref="char:EOLhyphen"/>venture, <hi>Mackbeth</hi>'s jealouſy flowed not ſo much from <hi>Bancho</hi>'s valour or his bare reſponſe only, but as bottom'd upon his Cognation of blood, as <hi>Bucha<g ref="char:EOLhyphen"/>nan</hi> hath well obſerved in his <hi>Igitur veritus ne homo potens, &amp;c.</hi> And which is legibly read in <hi>Malcolm Canmor</hi>'s ſo quickly advancing his Grand-child to places of ſo great and near concern as <hi>Steward</hi> of his Houſe and Kingdom, extended by the K. <hi>Maiden,</hi> to the <hi>Magnus Seneſcallus,</hi> and which Relation was alſo remembred by K. <hi>Robert</hi> the <hi>Bruce,</hi> for the Royal Stem reſiding in <hi>Argyle,</hi> the firſt branch ſpreads to <hi>Galloway,</hi> the next to <hi>Lochaber.</hi> And as the <hi>Bruce</hi> was the firſt who came to the Crown of the Houſe of <hi>Galloway,</hi> who ſo fit a match for his eldeſt Daughter, as her Couſin, <hi>Walter</hi> the great <hi>Steward</hi> from <hi>Bancho</hi> of <hi>Lochaber?</hi> and which ſeems hath not been forgot, even by our later <hi>Mary,</hi> for no Husband to the Queen Heretrix of <hi>Scotland,</hi> and Douager of <hi>France,</hi> like to her Kinſman <hi>Darnly,</hi> by the Houſe of <hi>Lennox,</hi> from <hi>Walter</hi> of <hi>Dundonald.</hi> So connatural is it for Princes to be juſt and true to the righteous Heir, that Queen <hi>Elizabeths</hi> laſt breath could ingeminate <hi>none but her Couſin</hi> JAMES, <hi>none but her Couſin</hi> JAMES.</p>
+            <p>And now (Sir) little remains but to give my reaſons, why I differ from the Common opinion of the firſt <hi>Magnus Seneſcallus Scotiae,</hi> and to prove the <hi>Walter</hi> and <hi>Allan,</hi> whom here I inſert in the Line, and who are left out in the ordinary accounts of the ſame.</p>
+            <p>The received opinion then gives <hi>Walter</hi> the ſon of <hi>Fleance,</hi> to be the firſt <hi>Magnus Seneſcallus Scotiae,</hi> and I make but <hi>Walter</hi> the ſecond, (Grand-child by <hi>Allan</hi> to the firſt <hi>Walter</hi>) the firſt Great <hi>Stuart</hi> of <hi>Scotland.</hi> Now I hope we will agree, that <hi>Seneſcallus</hi> is homonymous, nor ſhall I here trouble you with all the various acceptations of the word; allow me but three.</p>
+            <p>
+               <hi>First,</hi> That <hi>Seneſcallus</hi> is <hi>Dapifer,</hi> that he is <hi>Oeconomus,</hi> and that he is <hi>Lo<g ref="char:EOLhyphen"/>cum-tenens;</hi> which without other proof I know (you are ſo ingenuous) you will not refuſe. <hi>Seneſcallus-Dapifer,</hi> for the Family within the walls, <hi>Steward</hi> of the <hi>Houſe; Seneſcallus-Oeconomus,</hi> for the Proviſions from abroad (as in the Purveyors of <hi>Solomon,</hi>) uplifter, and ingatherer of the Rents, which of old conſiſted moſt <hi>in ipſis corporibus.</hi> But when the uſe of money became more frequent, this <hi>Seneſcallus-Oeconomus</hi> came thereafter to be ab<g ref="char:EOLhyphen"/>ſorbed in the <hi>Theſaurer</hi> or <hi>Chamberlain,</hi> as it relates to <hi>Quaeſtura.</hi> And yet the payment of the Rents, whether <hi>in ipſis corporibus,</hi> or in money, being of<g ref="char:EOLhyphen"/>ten refuſed, queſtioned, and debated, it was more than requiſit that this <hi>Se<g ref="char:EOLhyphen"/>neſcallus</hi> ſhould have <hi>Juriſdictionem &amp; poteſtatem quandam,</hi> a Civil Juriſdicti<g ref="char:EOLhyphen"/>on and diſtreinzeable power, and in caſe of force and reſiſtance, military and coercive; in which caſe, when this <hi>Seneſcallus</hi> was in or about the exerciſe of his Office, he was ſaid (for the better procuring to him of reverence and obedience) <hi>Tenere locum Regis.</hi> And as this midle <hi>Seneſcallus,</hi> Participat<g ref="char:EOLhyphen"/>ing of both extreams, was ſometimes termed <hi>Dapifer,</hi> and ſometimes <hi>Locum<g ref="char:EOLhyphen"/>tenens;</hi> So did the <hi>Seneſcallus-locum-tenens,</hi> through proceſſe of time, creep up in his Military power and capacity to be <hi>Ductor Exercituum, Regiarum Co<g ref="char:EOLhyphen"/>piarum Praefectus,</hi> and to be ſtiled <hi>Magnus Seneſcallus,</hi> where the Epithet <hi>magnus</hi> is not prefixed to <hi>Seneſcallus,</hi> except the <hi>Locum-tenens</hi> be <hi>Generaliſsi<g ref="char:EOLhyphen"/>mo,</hi>
+               <pb n="18" facs="tcp:110251:10"/> and that, if not hereditary, for life at leaſt, and not upon ſingle emergents. And who among the ancient <hi>Romans</hi> boaſted himſelf of the Title of <hi>Magnus,</hi> but <hi>Poteſtate etiam gaudebat Imperatoriâ:</hi> yea, <hi>Magni</hi> alone, to <hi>Martial</hi> ſigni<g ref="char:EOLhyphen"/>fied <hi>Imperatores.</hi> So what I have premiſed, furniſhes me with this Diſtin<g ref="char:EOLhyphen"/>ction, <hi>Seneſcallus Regis, Seneſcallus Regni,</hi> and <hi>Magnus Seneſcallus Scotiae,</hi> agreeable to our Cuſtoms and Hiſtories. <hi>Seneſcallus Regis, Dapifer,</hi> whoſe Fee is mentioned in the Acts of King <hi>Malcolme</hi> the ſecond, <hi>Seneſcallus Regni, Walter</hi> the firſt, the Hereditary <hi>Oeconomus,</hi> who gave to his Poſterity the Sir<g ref="char:EOLhyphen"/>name of <hi>Stuart. Magnus Seneſcallus Scotiae, Walter</hi> the ſecond, the firſt here<g ref="char:EOLhyphen"/>ditary <hi>Generaliſsimo</hi> of the Kingdom, and in the Kings abſence Commander alwayes in chief of his Forces, and the Kings <hi>Lieutenant,</hi> where ever the Roy<g ref="char:EOLhyphen"/>al Standart ſtood diſplay'd.</p>
+            <p>But you will be apt to ſay, that bare aſſertions are too weak engines, to ſhake ſo rooted a tradition, and allowing of my Diſtinctions in the general, yet ſhall I nevertheleſs gain but few Proſelytes, unleſs I prove that the firſt <hi>Walter</hi> was not <hi>Magnus Seneſcallus</hi> in the ſenſe that I have given, and that there was a <hi>Walter,</hi> whom I name the 2. betwixt <hi>Alexander</hi> and <hi>Alan.</hi> Seing then it is eaſier to diſprove an affirmative, then to prove a Negative, I ſay the firſt <hi>Walter</hi>'s being <hi>Magnus Seneſcallus Scotiae,</hi> is but a meer vulgar tradition from a miſtake, in confounding the Grand-father for the Oy, from the names of <hi>Walter</hi> and <hi>Malcolm:</hi> for as <hi>Walter</hi> the Goodſyre was made <hi>Seneſcallus Reg<g ref="char:EOLhyphen"/>ni,</hi> by K. <hi>Malcolm Canmoire,</hi> ſo was <hi>Walter</hi> the Oy, made <hi>Magnus Seneſcal<g ref="char:EOLhyphen"/>lus Scotiae,</hi> by K. <hi>Malcolm</hi> the <hi>Maiden.</hi> And the better to excuſe the miſ<g ref="char:EOLhyphen"/>take, much of the cauſe of both their preferments was their being active in ſuppreſſing ſome inſurrections in <hi>Galloway</hi> and the <hi>Highlands,</hi> moſt pro<g ref="char:EOLhyphen"/>bably occaſioned from the Kings <hi>Officers,</hi> demanding, and the Diſobeyers undutifull refuſing of their Rents and Revenues, due and addebted by them to the Crown. And the firſt <hi>Walter</hi> is never named <hi>Magnus Seneſcallus Scotia,</hi> by any of our Hiſtorians; For <hi>Boes</hi> calls him but <hi>Regni Seneſcal<g ref="char:EOLhyphen"/>lum, (i. e.)</hi> ſayes he, <hi>Regiorum proventuum primarium Procuratorent. Bucha<g ref="char:EOLhyphen"/>nan</hi> ſpeaks him no other then <hi>Stuartum totins Scotiae,</hi> adding, <hi>Quaſi dicas, Oecanomum. John Fordon,</hi> in his <hi>Scotichronicon</hi> writes him, his Son, and his Grand-child, no more but <hi>Dapiferi,</hi> only <hi>Lesly</hi> hath theſe words, <hi>ſummi Seneſcalli ut loquimur,</hi> where <hi>ut loquimur</hi> explains the <hi>ſummus Seneſcallus,</hi> as commonly uſed in <hi>Leſlies</hi> time, and does not tell the true import of it, In the dayes of <hi>Malcolm Canmoir,</hi> when our other Hiſtorians make him but <hi>Seneſcallus-Oeconomus,</hi> and <hi>Stuartorum familias Princeps.</hi> Yea, and <hi>Leslie</hi>'s own <hi>Summus ſeneſcallus</hi> amounts to no more then <hi>Summus Oeconomus.</hi> And tho the word <hi>Scotiae</hi> had been added, yet will it with the underſtanding Rea<g ref="char:EOLhyphen"/>der ſignifie nothing but <hi>Regiorum Oeconomorum Supremus,</hi> which none de<g ref="char:EOLhyphen"/>nies; and any Grammaticaſter can tell the difference betwixt <hi>Summus</hi> and <hi>Magnus.</hi>
+            </p>
+            <p>So that it is now evident and obvious, that there is a palpable diffe<g ref="char:EOLhyphen"/>rence betwixt a <hi>Steward</hi> and a <hi>Magnus Seneſcallus.</hi> For does not <hi>Stuart,</hi> as a Sirname from <hi>Oeconomus,</hi> at one and the ſame time ſerve many Perſons, and ſeverall diſtant Houſes and Families, whereas <hi>Magnus Seneſcal<g ref="char:EOLhyphen"/>lus Scotiae,</hi> as a ſpecial and particular Office in dignity, reſted only in the perſon Chief of the whole Clan for the time, without any communication
+<pb n="19" facs="tcp:110251:10"/> to others. And if <hi>Walter</hi> the firſt was, as <hi>Magnus Seneſcallus Scotiae, Regiarum Copiarum Ductor ac Praefectus,</hi> why was <hi>Gilchriſt</hi> Earle of <hi>Angus,</hi> Comman<g ref="char:EOLhyphen"/>der in chief to the Forces of <hi>Malcolm</hi> the <hi>Maiden,</hi> againſt the <hi>Gallovidians</hi> and <hi>Highlanders,</hi> when <hi>Walter</hi> the ſecond, the firſt <hi>Walters</hi> Oy, was in com<g ref="char:EOLhyphen"/>pany with him, and did not ſo much as lay claim to his right, as did there<g ref="char:EOLhyphen"/>after his Succeſſor <hi>John</hi> at the Battel of <hi>Falkirk,</hi> as well againſt the more redoubted Warriour <hi>Wallace,</hi> as againſt the <hi>Cumin</hi> his elder Colleague in the Regency; But that even becauſe then, the ſecond <hi>Walter</hi> was only <hi>Seneſ<g ref="char:EOLhyphen"/>callus Oeconomus,</hi> and not <hi>Magnus Seneſcallus Scotiae,</hi> which ſhortly he got there<g ref="char:EOLhyphen"/>fore for ſeveral reaſons conferred upon him, partly I ſuppoſe for his own va<g ref="char:EOLhyphen"/>lour ſhown with Earle <hi>Gilchriſt,</hi> partly out of remembrance of his Father, who went to the Holy Wars with <hi>Godfrey de Bulloigne,</hi> and was preſent with him at the Siedge of <hi>Antioch;</hi> but more eſpecially for a <hi>Raggio di Stato,</hi> it being thought belike then convenient that, the <hi>Summus Oeconomus</hi> ſhould be made alſo <hi>Magnus Seneſcallus,</hi> while both were conjoyned in the perſon of a near and Loyal Kinſman. And have I not ſeen an old Coat of <hi>Arms,</hi> for the <hi>Stuart,</hi> Entaſſelled or cordeleired with <hi>Thiſtles,</hi> and as it were ſome leaves or twigs interwoven, and giving the Motto, <hi>Nemo me impune laceſſit,</hi> where the Supporters held, one of them upon a Standart, the Flag of the Family, and the other bore a St. <hi>Andrews</hi> Croſs. And what more proper Hierogliphick in Herauldry could be given to the Counting <hi>Oeconomus</hi> then the <hi>Feſse Chequie?</hi> And what fitter for a <hi>Magnus Seneſcallus Scotiae,</hi> then the Badge then uſed by the Kingdom, with the Thiſtles and Motto; abundantly expreſſive of his Duty, Courage, and Loy<g ref="char:EOLhyphen"/>alty, when conjoyned with the Creſt, which was the head of an Unicorn. And in a Letter from the Nobility of <hi>Scotland</hi> to the <hi>Pope, Anno,</hi> 1320. among ſome thirty eight Seales appending, when I did ſee it, the Seale of <hi>Walter,</hi> Son-in-Law to <hi>Robert</hi> the <hi>Bruce,</hi> was only a plain Saltier or St. <hi>An<g ref="char:EOLhyphen"/>drew</hi>'s Croſs (as in my Notes upon that Letter I have obſerved.) And his Son <hi>Robert,</hi> the firſt King of the <hi>Stuarts,</hi> when he reſerved and annexed the Eſtate and Office of the Great <hi>Steward</hi> of <hi>Scotland,</hi> for ever to the Crown, to be enjoyed alwayes by the Kings eldeſt ſon, the Prince Politickly ſaid, <hi>It was too dangerous to make anie a</hi> Magnus Seneſcallus, <hi>or hereditarie Gene<g ref="char:EOLhyphen"/>ral, but the next Heir of the Crown,</hi> (although even that King ſhewed more then ordinary kindneſs for his ſecond ſon <hi>Robert;</hi>) yet, for the honour of his Fathers Houſe (for he came to the Crown in right of his Mother) did he advance the Badges and Symboles of the Office, to ſtand external Imbelliſh<g ref="char:EOLhyphen"/>ments to the Coat <hi>Royal,</hi> dignifying and inlarging the old Creſt, by tying his gorged <hi>
+                  <g ref="char:V">Ʋ</g>nicorn,</hi> with a chain of Loyal Magnanimity to ſuport the Re<g ref="char:EOLhyphen"/>gal <hi>Lyon;</hi> teaching thereby the <hi>Prince</hi> and <hi>Steward</hi> of <hi>Scotland,</hi> for ever to be faithful and Loyal to the Crown; which may convince ſuch of their fooliſh ignorance, who from the Chain, in our Kings Atchievement, would for<g ref="char:EOLhyphen"/>ſooth by a ſtrange Armorial Logick, argue a <hi>Vaſſalage</hi> to <hi>England.</hi> What! Our <hi>
+                  <g ref="char:V">Ʋ</g>nicorn</hi> is not chained, nor does he chain his <hi>Lyon</hi> to their <hi>Leopards;</hi> while <hi>in defence</hi> of his Quadrupedal Monarch, he bears a Horn, with a <hi>Ne<g ref="char:EOLhyphen"/>mo me impune laceſsit.</hi> Hence, Sir, you may readily conceive I ſtand a little ingadged to crave pardon, why I ſo formally differ from thoſe who write the Epigraph <hi>Nemo me impune laceſset,</hi> in a Circle environing the Image of St. <hi>Andrew,</hi> when I attribute all to the <hi>Magnus Seneſcallus.</hi> Permit me then Sir, to offer my Arguments, and gueſs at their grounds; and though this be a digreſsion, yet ſpeaking here of His Majeſties Line Male, I hope it will
+<pb n="20" facs="tcp:110251:11"/> not be to you unpleaſant, that this Paper preſent you my thoughts of the Royal Badges of the Kingdom, with the Principal order of <hi>Knighthood,</hi> ordinarily thereunto aſsigned.</p>
+            <p>The tale then goes, That <hi>Hungus</hi> King of the <hi>Picts</hi> (aſsiſted by <hi>A<g ref="char:EOLhyphen"/>chaius</hi> againſt the Saxon <hi>Athelſtane</hi>) did at <hi>Elſanfoord</hi> neare <hi>Haddingtown,</hi> upon an Apparition of St. <hi>Andrews</hi> Croſs, obtain a memorable and unexpe<g ref="char:EOLhyphen"/>cted Victory, whereupon that Apoſtle became St. <hi>Patron</hi> to the <hi>Scots</hi> and <hi>Picts.</hi> And in all Battels thereafter, was ſucceſs under his Banner equally pray'd for, expected and promiſed; And to whoſe greater honour, did <hi>Achaius</hi> erect in the City of St. <hi>Andrews,</hi> an order of the <hi>Knights</hi> of the <hi>Thiſtle,</hi> with the Motto as laſt aforeſaid, <hi>Nemo me impune laceſſet.</hi> And yet there be ſome who attribute this to a congratulation of the League with <hi>Carlemain;</hi> as if it ſhould be touchie and uneaſy for any to diſquiet the <hi>Scots,</hi> when ſo aſsiſted by the <hi>French.</hi>
+            </p>
+            <p>As to the truth of the Apparition, I leave it to thoſe who liſt to believe it. Nor will I here concern my ſelf, whether St. <hi>Andrew</hi> was Patron to the <hi>Picts</hi> before the days of <hi>Hungus,</hi> when <hi>Regulus</hi> the Grecian <hi>Monk</hi> firſt brought ſome of his Reliques to King <hi>Herguſtus.</hi> Far leſſe will I now ſtate the Queſtion, When, or by what methods and devices, the Religious remem<g ref="char:EOLhyphen"/>brance of, or reſpectful reverence to, the Names and Virtues of the Saints departed, did firſt in our Church creep up to a formal adoration, and ſu<g ref="char:EOLhyphen"/>perſtitious Invocation of them. Since I verily believe (if our; Hiſtorians abuſe us not,<note place="margin">
+                  <hi>Spotſ.</hi> 1. B. <hi>Boes,</hi> 10. B.</note>) that the ſtoried Viſion appeared not to <hi>Achaius.</hi> For the Scots Auxiliaries went under the conduct of his ſon Prince <hi>Alpine,</hi> the Crown<g ref="char:EOLhyphen"/>ed King; judging it below his Royal Dignity, to march in perſon as an Allie, in the but extrinſick quarrel of his bordering, and oftentimes offen<g ref="char:EOLhyphen"/>ſive neighbour. And although the Badge of St. <hi>Andrew,</hi> be derived to us from the <hi>Picts;</hi> yet ſome in their relations thereof, are not ſo fully clear, in either the cauſe, occaſion, or time, whether before or after the deſtru<g ref="char:EOLhyphen"/>ction of the <hi>Picts.</hi> If before, what tempted a Scots King to borrow from a <hi>Pictiſh?</hi> could he not have deviſed of his <gap reason="illegible" resp="#MURP" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> or, ſhould the one bro<g ref="char:EOLhyphen"/>ther-in-law, rob from the other, one of the choiceſt Badges of his Chriſtian devotion, and Princely honour? But if the <hi>Scots</hi> aſſumed it after the fatal period of the <hi>Pictiſh</hi> Kingdom, ſure <hi>Achaius</hi> lived not to ſee that exterminating blow. And how peaceable will you make <hi>Hungus</hi> with his <hi>Picts,</hi> who ſuf<g ref="char:EOLhyphen"/>fered a <hi>Scots</hi> King, not only quietly, but even gloriouſly, to erect himſelf Sovereign of an order of Knighthood, in one of the chieft Cities of their own <hi>Otholinia</hi> (before <hi>Kirk-Rule</hi> was Chriſtned St. <hi>Andrews</hi>) and that too in the name and under the Protection of their beloved Tutelary Saint, with the bleſsing of large promiſes for Victory to his Votaries, under no leſs then the menacing Epigraph, of <hi>Nemo me impune laceſſet:</hi> for who would think, that the poor paſsive <hi>Thiſtle,</hi> could ever be ſo boiſtrous in the future. But why, contrary to all other Mottoes, ſo ſevere a menace in the Future? Did the deceaſed Brother of St. <hi>Peter</hi> ſo ſoon forget the dictates and exam<g ref="char:EOLhyphen"/>ple of his living Maſter, who when he was reviled, ſtood ſo far wide of re<g ref="char:EOLhyphen"/>venge, as never ſo much as once to revile again; teaching his Diſciples to learn of him to be meek and lowly, and not to ſuffer the Sun to go down upon their wrath. And why from a peaceable and inſpired Apoſtle, ſuch
+<pb n="21" facs="tcp:110251:11"/> an enſurng word for Victory, ſucceſſe and revenge, as <hi>Nemo me impune laceſset,</hi> when the infallible Oracle, bids tell a Puiſſant and Martial Monarch, <hi>Let not him that girdeth on his Harneſſe, boast himſelf, as he that putteth it off.</hi> But belike that <hi>Ventorious,</hi> rather then <hi>Victorious</hi> Promiſe, hath been con<g ref="char:EOLhyphen"/>ceived a little ſcrimp of the <hi>common</hi> ſtile, <hi>Conjunctly,</hi> but not <hi>ſeverally;</hi> elſe what a pitiful pickle will they put St. <hi>Andrews</hi> in, for an <hi>Orleans</hi> gloſs up<g ref="char:EOLhyphen"/>on his Text, when the Oy of <hi>Achaius</hi> ſucceſsively, and utterly, defeated. <hi>Druskenus,</hi> with his <hi>Vicomagian, Horeſtian, Otholinian,</hi> and all his other <hi>Picts,</hi> where the ears of the good Tutelar Saint, could not but ſtrangely, and more then once and again, at one and the ſame inſtant, be miſerably grated with the cries of many thouſand Scots, <hi>Sancte Andrea, ora pro nobis,</hi> re-echoed with as many groans from the <hi>Picts, Dive Andrea, ora pro nobis.</hi> What could be left to the tender hearted Apoſtle, but to ſit dumb, and let the Lord God of Hoſts from the juſtneſs of the cauſe, and the valour of the Combatants alone decide the quarrel.</p>
+            <p>I know and do grant you, that the valiant <hi>Kenneth</hi> the ſecond, did not aſſume, but as well by the Law of Arms, as right of blood juſtly claim'd, and Poſſeſt himſelf of the <hi>Pictiſh</hi> Badge, being equally their lawful Prince, and their fortunat Victor, who becauſe of their undutiful refuſing and re<g ref="char:EOLhyphen"/>ſiſting of his father and himſelf ſcorned to quarter their Arms with thoſe of <hi>Scotland:</hi> yet, for a trophie of his ſucceſs, and from a reſpect to the Reli<g ref="char:EOLhyphen"/>gious memory of the Apoſtle <hi>Andrew,</hi> did Politickly reſerve the Badge of his Croſs, to be born in his Martial Banner thereafter; whereof <hi>Boes</hi> ſayes, <hi>manſit Pictis</hi> (to wit after <hi>Hungus victorie) &amp; poſt eos deletos, Scotis exinde hoc institutum in perpetuum.</hi> To which <hi>Leſly</hi> agrees in his <hi>Cum hosti<g ref="char:EOLhyphen"/>bus congreſsurus ſemper poſtea geſtabat, id quod Scoti omnes in memoriam victo<g ref="char:EOLhyphen"/>riae a Pictis etiamnum religioſiſſime obſervant.</hi> That wiſe King divining per<g ref="char:EOLhyphen"/>haps that the <hi>Engliſh</hi>-Saxons (conform to the tradition) once falling un<g ref="char:EOLhyphen"/>der the ſign of S. <hi>Andrew,</hi> would be apt to fear the like thereafter. But that the Scots Kings uſed it further then in their Banners of War, untill thir later Centuries, would be proven ere I truſt it. For who can, upon any ingenuous acknowledgement ſay, he any wayes ever ſaw (or from authentick Authors, read) the Effigies of St. <hi>Andrew</hi> or his Croſs (by what ligament or Collar ſoever) pendulous to the Coat of <hi>Scotland,</hi> before the <hi>Stuart</hi> came to the Crown, not to diſcourſe when thoſe more modern methods of Double <hi>Supporters,</hi> pendant Medalls from Chains and Collars of Orders, with Epigraphs, came to be firſt, from a proud vanity embraced, and thereafter from an ambitious emulation affected, cheriſhed, and entertained amongſt the Independant Monarchs. Allowing then the <hi>Scots</hi> after <hi>Kenneths</hi> exſtinguiſhing of the <hi>Picts,</hi> to have born the Croſs and Badge of St. <hi>Andrew</hi> on their Standart Royal or Field-Banner, as in the pre<g ref="char:EOLhyphen"/>ſent Banner Azure of <hi>Scotland,</hi> imbraced by the ſupporting <hi>
+                  <g ref="char:V">Ʋ</g>nicorn</hi> in the Royal Atchievement, which Banner was neceſſarily given and intruſted to the <hi>Magnus Seneſcallus Scotiae,</hi> as the Kings Lieutenant in his Armies: and which Badge being equally the Enſign of the Kingdom, and Symbole of his Office, he moſt probably hath (according to the cuſtom of other Officers of that nature) worn about his body on a Medal, in a Ribband, Richly wrought, with an interwoven Collour of Thiſtles and Rue, with the empha<g ref="char:EOLhyphen"/>tick and comprehenſive Ditton, <hi>Nemo me impune laceſſit.</hi> Not <hi>me,</hi> as the word
+<pb n="22" facs="tcp:110251:12"/> is interpret to a perſon) the glorious St. <hi>Andrew,</hi> who am now beyond the concerns or provocations of Mortalls Eternally taken up, in the beatifick viſion of the <hi>Trin-une Jehove;</hi> But <hi>me</hi> the <hi>Captain General</hi> of the Forces of <hi>Scotland,</hi> and Theſaurer, Chamberlain, Steward and Collector of the Rents and Revenues of the Crown, for the ſupport of the King, and Go<g ref="char:EOLhyphen"/>vernment.</p>
+            <p>And ſuch a <hi>Magnus Seneſcallus,</hi> might very juſtly and nobly, (and con<g ref="char:EOLhyphen"/>form to the Rules and allowances of Herauldry, very warrantably too) have given ſuch a Callour to a Medal for St. <hi>Andrew,</hi> with the <hi>Nemo me</hi> (as I have explained it) <hi>impune laceſſit.</hi> If it be but minded that our firſt Great-<hi>Stewards</hi> Grand-fathers Grand-father <hi>Bancho,</hi> when Thane of <hi>Lochaber</hi> (and <hi>Regionum Thani,</hi> ſayes one <hi>pleriſque in locis Stuarti vocantur</hi>) was ſo ſorely wounded for diſcharging his duty in the collecting and in-bringing of the Kings rents, that <hi>Buchanan</hi> ſayes of him, in his 7. Book <hi>Initium ſpernendi Imperium natum in Abria, adverſus</hi> Banchonem <hi>ejus Regi<g ref="char:EOLhyphen"/>onis</hi> Thanum, <hi>hominem acrem, &amp; aequitatis unicum cultorem, cujus in animad<g ref="char:EOLhyphen"/>veriendo ſeveritatem, cum non perferendam ducerent mali, conſpiratione adver<g ref="char:EOLhyphen"/>ſus cum factâ, bonis direptis, vulneratum ac ſemivivum expulerunt.</hi> Or if the Inſurrections and Commotions, raiſed moſtly upon that ſame account, as well againſt his Grand-father, before he was made <hi>Summus Oeconomus,</hi> as againſt himſelf, before he came to be <hi>Magnus Seneſcallus,</hi> be not wholly, as yet forgot: with which, if you take into conſideration <hi>Buchanans</hi> Cha<g ref="char:EOLhyphen"/>racter of King <hi>Duncan,</hi> that he was <hi>Vir majore erga ſuos indulgentiâ quam in Rege opus eſt.</hi> And ſpeaking of the ſtirs ſet on foot by <hi>Angus</hi> of <hi>Galloway,</hi> in the Reign of <hi>Malcolm</hi> the <hi>Maiden,</hi> he continues his Diſcourſe, with <hi>Qui plus tamen ſpei in Regis ignavia quam ſuis viribus collocaret,</hi> might not then, from thir grounds; our firſt <hi>Magnus Seneſcallus,</hi> upon his being inaugurat and entred in his Office, cauſe ſome Herauld proclaime, or intimat in his name as follows.</p>
+            <p>
+               <hi>Ye the Vaſſals, Rentallers and Subjects of the</hi> Scottiſh <hi>Crown, although ſome of you, and your Predeceſſors, have, by Rebellions, refuſed your dues, and ſhaken off your Loyalty, and therein alſo abuſed</hi> Bancho, <hi>my Grand-father, and my ſelf: which yet, with dutiful ſervices to our Prince, we did ſo far overcome, as theſe outbreakings tended but to your loſs, and to the greater advantage and ri<g ref="char:EOLhyphen"/>ſing of our Family, as this day you ſee me by the bleſſing of God, and the favou<g ref="char:EOLhyphen"/>rable bounty of my Royall Maſter inſtall'd the Kings</hi> Lieutenant, <hi>and the Great</hi> Steward of the Kingdom. <hi>Therefore I exhort you all to Loyalty and obedience, otherwiſe I will tell you, be you of whatever degree higher or lower, I have here an</hi> Unicorns Horn <hi>to puſh the one, and a</hi> Thiſtle <hi>to prick the other, and be aſ<g ref="char:EOLhyphen"/>ſured however, that your Rebellions will but prove to you bitter as</hi> Rue <hi>in the end, and never offer to preſume upon the good nature of my King, to whoſe honour and interest I will be ſtill ſo faithful, as you muſt underſtand</hi> Nemo me impune laceſsit. <hi>Yea, ſuch fortunat experience have I of the Divine aſſistance, that bleſt</hi> Bancho, <hi>my Grand-father and my ſelf, with ſucceſs againſt thoſe obſtinat Rebels, when we ſtood but in lower ſtations, that being now by my Sovereign, advanced to, and fortified in a higher preferment; I ſhall not diſpair, but that under his Roy<g ref="char:EOLhyphen"/>al Banner, and the luckie omen of</hi> St. Andrew, <hi>be able as</hi> Generaliſsimo <hi>of the
+<pb n="23" facs="tcp:110251:12"/> Kingdom, without any vain ostentation to obtrude to all and whoſoever the E<g ref="char:EOLhyphen"/>nemies of my Lord the King,</hi> Nemo me impune laceſsit, <hi>where, whatever ſhall be wanting of ſucceſſe in the event, ſhall not fail to be ſupplied by my heartie prayers, backed, I hope, with no deſpicable courage. And therefore do I now, take thir Symbols, to be conſtant and lasting monitors, to me and my ſucceſſors, as well of our faithfulneſs and dutie to our Master, as towards our fellow-Sub<g ref="char:EOLhyphen"/>jects.</hi>
+            </p>
+            <p>And which Symboles ſo choſen by the Great <hi>Steward,</hi> were thereafter, as I have already ſaid, placed by K. <hi>Robert</hi> the 2. the exterior Ornaments to the Coat Royal (yea, I ſuppoſe thoſe Voluminous extrinſick inbelliſhments and additaments, now in uſe in the Atchievements of free Princes, will neither here, nor ſcarcely elſewhere, own ſo old a date as <hi>Achaius,</hi> or his Grand-child <hi>Kenneth.</hi>) And ſo how handſomely does now the Regal <hi>Lyon</hi> in the Creſt Royal, ſit with his Sword and Scepter, a Vindicative Judge <hi>in defence</hi> of the Crown and Kingdom, when ſupported and incou<g ref="char:EOLhyphen"/>raged by his ſon and ſucceſſor, examplifying to the People their Duty and Loyalty; advertiſing them, that whatever troubles they procure or creat to his Father or Predeceſſor, he as <hi>Prince</hi> and <hi>Steward</hi> of <hi>Scotland,</hi> ſtands there from God an avenging Magiſtrat at hand, with his <hi>Nemo me impune laceſſit.</hi> What needs then you, Sir, me, or any man, trouble our ſelves with the too much Legendary tale of S. <hi>Andrews, me,</hi> in a meaning Future, when the Great-<hi>Steward</hi> helps us with better ſenſe, Hiſtory, and reaſon, from his own <hi>me,</hi> in a modeſter <hi>Preſent</hi> and <hi>Praeterfect</hi> ſenſe. And as I be<g ref="char:EOLhyphen"/>lieve, the writing <hi>Lacceſſet,</hi> will be found upon a true ſcrutinie to be but ſome new fancy. So would I gladly know, when the Epigraph firſt incir<g ref="char:EOLhyphen"/>cled the Image, which leads me to the Order of <hi>Knighthood</hi> it ſelf. And which, If I may without offence, I would exceedingly doubt of.</p>
+            <p>For what a manck and ſlender Order will it be, conſiſting only of a ſingle Sovereign without any Fellows. O! but ſome are confident enough, to ſpeak of the number of the Companions; yet in all ages down from <hi>A<g ref="char:EOLhyphen"/>chaius</hi> they name not ſo much as one perſon. You know it is betwixt the more knowing and the Vulgar controverted, whether <hi>Edward</hi> the third, or his Son the <hi>Black Prince</hi> inſtituted the Garter. But here is <hi>Achaius</hi> inſti<g ref="char:EOLhyphen"/>tuting an order (and if ſo, the oldeſt in <hi>Europe</hi> of a Kings inſtitution; for the <hi>Pairrie</hi> of <hi>Charles</hi> the <hi>Great</hi> was a Society of men for Council and Go<g ref="char:EOLhyphen"/>vernment, and not an Order of Knighthood for Honour &amp; Chevalry:) and yet not ſo much, as admitting his eldeſt ſon <hi>Alpine</hi> a Fellow, though he it was, who with <hi>Hungus</hi> beat <hi>Athelſtane.</hi> And ſure <hi>Kenneth</hi> hath had but little reſpect for his Grand-fathers inſtitution, and been as regardleſs of his Friends, if he beſtowed not a little honour on thoſe to whom he gave ſo much of fortune, by aſſociating his <hi>Barus</hi> and <hi>Fifus</hi> into the Order. And muſt we be ſo unmannerly, to ſay, that K. <hi>Duncan</hi> hath been but a ſorry Good-fel<g ref="char:EOLhyphen"/>low, who could not quaffe it over to <hi>Bancho,</hi> for that his St. <hi>Johnstown</hi> col<g ref="char:EOLhyphen"/>lation to the <hi>Danes.</hi> And doubtleſs <hi>Malcolm Canmoir</hi> was peeviſh, who when he indulg'd ſo famous a Girth to <hi>Mackduff,</hi> yet grudg'd him, a green Ribband with a Thiſtle. Or did not the <hi>Hay</hi> at <hi>Lonkartie,</hi> the <hi>Kieth</hi> at <hi>Camſtane,</hi> with the <hi>Stewart</hi> who defeated <hi>Acho</hi> at the <hi>Largs</hi> deſerve it. And queſtionleſs <hi>Robert</hi> the <hi>Bruce,</hi> but undervalued the ſervice of the good Lord
+<pb n="24" facs="tcp:110251:13"/> 
+               <hi>Dowglas,</hi> when he but dub'd him a Knight, without vouchſafing him the Collar of St. <hi>Andrew.</hi> And was the <hi>Black Knight</hi> of <hi>Lorn,</hi> who by wedding of a <hi>Queen,</hi> gave Brothers and Siſters to a <hi>King,</hi> adopted a Companion of the Order. And was not <hi>James</hi> the Fourth much more ſparing of his fa<g ref="char:EOLhyphen"/>vours then his perſon, who would not by alluring the Nobles into the So<g ref="char:EOLhyphen"/>ciety of the <hi>Thistle,</hi> better incourage and detain them in that his too for<g ref="char:EOLhyphen"/>ward invaſion at <hi>Floudown.</hi> And can you judge but <hi>James</hi> the 5. himſelf, would have lent <hi>Oliver Sinclare,</hi> his <hi>Nemo me impune laceſset,</hi> were it but to have ſtated him in competition with the <hi>Maxwel</hi> at <hi>Solvay</hi>-Moſs: And what Inamorato will ſay, that <hi>Marie</hi> ſhould have denyed her Darling <hi>Darnlie</hi> the Communication of the Order (whereof ſhe was equally Sovereign as her Siſter <hi>Elizabeth</hi> of the <hi>Garter</hi>) when ſhe deſigned to honour the Duke of <hi>Rothſay,</hi> with the Nuptial bed of a free born and Independant <hi>Queen;</hi> yea, would not her learned Son, amongſt the reſt of his Unions have interchan<g ref="char:EOLhyphen"/>ged ſome Engliſh Noblemen to the <hi>Thiſtle,</hi> as he did <hi>Scots</hi> to the <hi>Garter.</hi> But when did our Kings quit this ſo Antient and honourable an Order? Why do not the Champions of it give the account, as in other Orders we read and find. Sure it was derelinquiſt in no Century, for want of Marti<g ref="char:EOLhyphen"/>al and deſerving men: but belike it went out, becauſe it never came in, and it is but Childiſh to think, that there cannot be an antient <hi>Crown</hi> without a formal Order of <hi>Knighthood</hi> appendant to it, where the Argument runs ſtonger on the contrary ſide. And I am apt to believe, that this very mi<g ref="char:EOLhyphen"/>ſtake prevails with ſome, for their ſo tenacious maintaining of this ſo allead<g ref="char:EOLhyphen"/>ged antiquitated Order, which looks to me too like a <hi>French</hi> tranſlation, to be believ'd a <hi>Scots</hi> Original. For there's a St. <hi>Michael;</hi> here a St. <hi>An<g ref="char:EOLhyphen"/>drew,</hi> and an Apparition for both, the one to a Father, <hi>Charles,</hi> the other to a Son <hi>Alpin;</hi> both in, or near Battels, near alſo to Bridges and Rivers, the one againſt the <hi>Engliſh,</hi> at the Bridge of <hi>Orleans</hi> in <hi>La Beauſs</hi> upon the <hi>Loyre;</hi> the other againſt the <hi>Engliſh</hi> too, near a Bridge upon <hi>Tine</hi> in <hi>Lothian:</hi> both, for ought I know, in a green Ribband, but to be ſure, with intervoven Collours and lofty Mottoes, <hi>Immenſi tremor Oceani,</hi> which, beyond all peradventure <hi>Nemo me impune laceſſet:</hi> the Seat of the one at St. <hi>Michaels</hi> Mount in <hi>Normandy,</hi> from which the <hi>French</hi> partly had, and ful<g ref="char:EOLhyphen"/>ly reſolved to turn out the <hi>Engliſh Normans.</hi> The other at the Town of St. <hi>Andrews</hi> in <hi>Otholinia</hi> (now <hi>Fife</hi>) out of which by a ſtrong Divinati<g ref="char:EOLhyphen"/>on <hi>Achaius</hi> foreſaw, that his Grandchild, would drive the <hi>Picts,</hi> only we want a St. <hi>Andrew-Herauld,</hi> when they had a Mount St. <hi>Michael,</hi> to attend upon the Order. Is it then any Heretical, diſreſpective, or diſloyal con<g ref="char:EOLhyphen"/>jecture to conceive that <hi>Kenneth</hi> the 2. made no other uſe of the Military Enſign of the <hi>Picts,</hi> then to repeat the ſame for his own, as victoriouſly gained by him in open Battel, ornamented thereafter as I have expreſſed by the Great <hi>Steward,</hi> for the Badge of his Charge (as in ſome compariſon, we yet ſee the <hi>Chamberlain</hi> wear the Golden Key on a blew Ribband,) aug<g ref="char:EOLhyphen"/>menting the Royal atchievement, by the direction of <hi>Robert</hi> the 2. and in<g ref="char:EOLhyphen"/>tended for an Order by <hi>James</hi> the 5. after his return from <hi>France,</hi> who having had the <hi>Garter</hi> from his Uncle the <hi>Cockle,</hi> from his Father-in-law, and the <hi>Fleece</hi> from his friend and Allie, the <hi>Emperour</hi> Bluſht: belike, to want an order of his own; which, that it might not derogat from the anti<g ref="char:EOLhyphen"/>quity of his Kingdom, was it not as eaſy for him to hire <hi>Monks</hi> to skrew it up to <hi>Achaius,</hi> as for <hi>Edward Langſhanks</hi> to cauſe contrive to Fable of <hi>Bru<g ref="char:EOLhyphen"/>tus,</hi> for clatching up a claime, before the <hi>Pope</hi> to <hi>Scotland.</hi> And if this Or<g ref="char:EOLhyphen"/>der
+<pb n="25" facs="tcp:110251:13"/> was eſtabliſhed before the days of K. <hi>James</hi> the 5. Why cite they not an authentick and creditable Author, who wrote before him, giving ſome rational account of the ſame? And why is he our only King, whoſe ſhoul<g ref="char:EOLhyphen"/>ders appear ſurrounded with the Ribband? Was the Collar of St. <hi>Andrew</hi> in<g ref="char:EOLhyphen"/>conſiſtent with the penitential Girdle of his Father? but what ſhould have impeded his other Predeceſſors to uſe it, or if he perfected the Order, who were his Companions? it is not ſo long ſince, but ſome of them might be re<g ref="char:EOLhyphen"/>membred. And why did his Daughter and Grand-child, lay this his (ſo much hugged) Order, ſo ſoon aſide? I ſhall little doubt, but here you might from the ſuggeſtions of ſome, alledge, I have run my ſelf in a groſs (if not dangerous) <hi>Praemunire.</hi> But I write to one who knows the difference betwixt <hi>Badges</hi> and <hi>Arms.</hi> Far be it from me, to rob the Royal Atchieve<g ref="char:EOLhyphen"/>ment of that its honourable (tho extrinſick) <hi>Badge</hi> of St. <hi>Andrew,</hi> pendu<g ref="char:EOLhyphen"/>lous to the Collar, which I never ſee, but it equally minds me of the De<g ref="char:EOLhyphen"/>ſtruction of the <hi>Picts,</hi> gallant Reſolution of the Great <hi>Steward,</hi> and reveren<g ref="char:EOLhyphen"/>tial Duty of our <hi>Robert</hi> the 2. to the memory of His Fathers Family. And beyond peradventure, had <hi>James</hi> the 6. or any of the <hi>Charles</hi>'s, lookt upon this as the Badge of an Order, they would have worn it, at leaſt when they were in <hi>Scotland.</hi> And to alledge the <hi>French</hi> and <hi>Engliſh</hi> Writers gives it ſo, is but to gratifie their miſtakes, to the prejudice of our true and more martial antiquities; for our Kings never wanted power to confer <hi>Knight<g ref="char:EOLhyphen"/>hood,</hi> but as they did it moſt in <hi>Procinctu,</hi> to the deſerving ſo did they little value thoſe preſcribed Orders, that creept but in upon deſigns inlater times, the Knights of our Antient Kings being truly <hi>Milites,</hi> tho of no formal Order, beyond that of <hi>merit.</hi>
+            </p>
+            <p>But me fears, I have provoked your patience to be a little out of Order, to the hazard of loſing my ſolitary <hi>Walter</hi> and <hi>Allane.</hi>
+            </p>
+            <p>To prove then my <hi>Second Walter;</hi> I firſt inſtance <hi>Skeen,</hi> in that his Table of the Kings, from <hi>Malcolm</hi> the ſecond, printed with the Acts of Parliament, (and which I alſo repeat, for proving him the firſt Great <hi>Steward</hi>) where to be ſure that we do not miſtake the <hi>Malcolm,</hi> by misfiguring 4. for 3. he adds the word <hi>the Maiden,</hi> for he Prints expreſly, <hi>Walter made Great Steward of</hi> Scotland, <hi>by</hi> Malcolm 4. <hi>the</hi> Maiden. And <hi>Skeen</hi> being Clerk Regiſter, he hath been doubtleſs from the Records of the Kingdom ſufficiently inſtru<g ref="char:EOLhyphen"/>cted for his ſo writing him <hi>the firſt Great Steward.</hi> And though he miſtook the ſending of his ſon <hi>Allan</hi> to the Holy Wars, if he means theſe of <hi>Godfrey de Bulloigne,</hi> yet is he abundantly fortified in his <hi>Walter,</hi> by <hi>Fordon</hi> in the 25. <hi>chap.</hi> of his 8. <hi>Book,</hi> ſaying, Walterus <hi>filius</hi> Allani <hi>Dapifer Regis, qui</hi> Pa<g ref="char:EOLhyphen"/>ſletum <hi>fundavit; obiit,</hi> Anno 1177. And if <hi>Walter</hi> the ſon of <hi>Fleance,</hi> who was more then twenty years old, ere he came to <hi>Scotland</hi> to his Couſin <hi>Malcolm Canmoir,</hi> lived to this time, expreſſed by <hi>Fordon,</hi> as he was <hi>Se<g ref="char:EOLhyphen"/>neſcallus,</hi> ſo ſhould I well allow him to be <hi>Magnus</hi> for his Age, ſince upon the moſt Sober computation that can be, he behooved to exceed an hundred years at leaſt: For himſelf being twenty before he frequented the Court of his Grand-father in <hi>Wales,</hi> and which was before he came unmarried to <hi>Scot<g ref="char:EOLhyphen"/>land,</hi> what years will you allow to his ſon at <hi>Antioch,</hi> 1099. who being the eldeſt, probably left alſo a ſon behind him when he departed the Kingdom. But Oh, this <hi>Walters</hi> father is <hi>Allan,</hi> not <hi>Fleance,</hi> and but yet <hi>Dapiſer</hi> to <hi>For<g ref="char:EOLhyphen"/>don,</hi>
+               <pb n="26" facs="tcp:110251:14"/> whoſe Grand-father then could not have been the firſt <hi>Magnus Seneſ<g ref="char:EOLhyphen"/>callus Scotiae.</hi> Moreover, this my ſecond <hi>Walter</hi> is further aſtructed by a Charter, which I have ſeen granted by <hi>Malcolm</hi> 4. confirming the Church of <hi>Falkirk,</hi> and certain Lands thereunto belonging, to the Abbacy of <hi>Haly<g ref="char:EOLhyphen"/>rude-houſe,</hi> bearing Date at the <hi>Maiden Caſtle,</hi> where the witneſs, next after the Biſhops and Earles, is <hi>Waltero filio Allani.</hi> And this Charter which muſt be before the year 1165. and after the year 1153. (for in the one did <hi>Malcolm the Maiden</hi> ſucceed, and in the other did he die) does unanſwe<g ref="char:EOLhyphen"/>rably make out from their own conceſſions another <hi>Walter</hi> then he of <hi>Dun<g ref="char:EOLhyphen"/>donald.</hi> For the Father of this <hi>Walter</hi> is expreſly in the Charter named <hi>Al<g ref="char:EOLhyphen"/>lan.</hi> Will you then ſay, <hi>Walter</hi> of <hi>Dundonald,</hi> who lived till the year 1241, would be inſert as a probative witneſs to a deed of <hi>Malcolm</hi> the 4. (when the witneſſes ingroſ'd in the Charters of our Kings, were, and yet are men of years and offices) ſeing they interpoſe <hi>Alexander</hi> who builded <hi>Pasley,</hi> to be his Father: whoſe father, yet notwithſtanding, was even our ſecond <hi>Allan,</hi> of whom <hi>Fordon</hi> in the 56 <hi>chap.</hi> of his 9. <hi>Book,</hi> ſayes, <hi>obiit</hi> Walterus <hi>filius</hi> Allani <hi>junioris,</hi> Anno <hi>Dom.</hi> 1241. And juſtly was he <hi>Juni<g ref="char:EOLhyphen"/>or,</hi> becauſe <hi>Allan</hi> the Grand-child to <hi>Fleance</hi> was <hi>Senior.</hi> And moſt truly might <hi>Fordon</hi> write him Father to <hi>Walter</hi> of <hi>Dundonald,</hi> ſeing I have ſeen him in a Charter from King <hi>Alexander</hi> the 2. to the Houſe of <hi>Sutherland,</hi> Da<g ref="char:EOLhyphen"/>ted at St. <hi>Andrews,</hi> 26. of <hi>Decemb.</hi> the 22. year of his Reign, which anſwers to the year of <hi>Chriſt,</hi> 1234. or 1235. inſert a witneſs next after <hi>Patrick</hi> Earle of <hi>Dumbar,</hi> in theſe words, Waltero <hi>filio</hi> Allani <hi>Seneſcallo juſtitiario</hi> Scotiae. And in another Charter yet in my hands, granted by the ſaid King <hi>Alexan<g ref="char:EOLhyphen"/>der</hi> the 2. at <hi>Traquair,</hi> the firſt day of <hi>June,</hi> in the twenty firſt year of his Reign; confirming to the <hi>Abbacy</hi> of <hi>Cowper,</hi> two Carrucats and a half of Land meaſured in <hi>Feodo de magno Blair</hi> in Excambion for the Common Muir of <hi>Blair, per eaſdem diviſas</hi> ſayes the Charter, <hi>per quas</hi> Walterus <hi>filius</hi> Allani <hi>Se<g ref="char:EOLhyphen"/>neſcallus noſter Scotiae, &amp; alii probi homines noſtri dictam terram iis ex parte noſtra aſſignaverunt &amp; tradiderunt.</hi> Now chooſe you whether this <hi>Walterus filius Allani,</hi> ingroſſed in the boſom of the Charter, in the Nominative Caſe, be the ſon of the firſt or the ſecond <hi>Allan.</hi> I do not much reguard it, though it may be more probable, he was the Son of the firſt <hi>Allan,</hi> and my ſecond <hi>Walter;</hi> becauſe this Kings Uncle, who builded the Abbacie of <hi>Cow<g ref="char:EOLhyphen"/>per,</hi> might have employed his Couſin the <hi>Steward,</hi> to divide theſe Lands to the <hi>Monks.</hi> And that he hath not the office of <hi>Juſtitiary,</hi> which is here given to one of the Witneſſes, who are <hi>William</hi> Biſhop of <hi>Glaſgow</hi> the Chan<g ref="char:EOLhyphen"/>cellor, <hi>Clement Biſhop</hi> of <hi>Dumblain; Patrick</hi> Earl of <hi>Dumbar,</hi> and then fol<g ref="char:EOLhyphen"/>lows, as in the Earl of <hi>Sutherlands</hi> Charter <hi>VValtero filio Allani Seneſcallo ju<g ref="char:EOLhyphen"/>ſtitiario Scotiae.</hi> So be the Witneſs and Perſon ingroſt here, one and the ſame, or diſtinct, importeth nothing, ſeing <hi>Fordon</hi> and my three Charters ſtill prove <hi>Allan</hi> a father of a <hi>Walter,</hi> and <hi>Walter</hi> the ſon of an <hi>Allan,</hi> and that in diſtinct times and Generations.</p>
+            <p>And thus you ſee, Sir, how I have cleared my ſecond <hi>Walter,</hi> and my ſecond <hi>Allan,</hi> the leaving out of whom, has flow'd (I ſuppoſe) from a de<g ref="char:EOLhyphen"/>fect in the firſt concoction, in not exactly obſerving the <hi>Walters</hi> and the <hi>Al<g ref="char:EOLhyphen"/>lans,</hi> which becauſe they could not well clear, they have chooſed rather, firſt to lay theſe two aſide, that they might thereafter be alto<g ref="char:EOLhyphen"/>gether left out. And how ſtrangely does <hi>Skeen</hi> abuſe <hi>his firſt Wal<g ref="char:EOLhyphen"/>ter:</hi> For if his <hi>Allan</hi> was with <hi>Godfrey</hi> of <hi>Bulloigne,</hi> ſurely he could not be the
+<pb n="27" facs="tcp:110251:14"/> Son of his own firſt <hi>Walter.</hi> For how can it be ſuppoſed, that the ſon of a man contemporary but with <hi>Malcolm</hi> the <hi>Maiden</hi> (who came not to the Crown, till the year 1153) could be of vigour and valour, to undertake ſo long, tedious, and dangerous a Voyage, to go and fight againſt the In<g ref="char:EOLhyphen"/>fidels in <hi>Jurie-land,</hi> Anno 1099. for of what age can you ſuppoſe him to have been when he went away, and of what a vigorous conſtitution behooved his Father to be (if he was the Son of <hi>Fleance</hi>) who was thought fit to be in<g ref="char:EOLhyphen"/>truſted with ſuch a Military Charge, as to be made in his Office of <hi>Magnus Seneſcallus,</hi> the Kings Lieutenant and Captain General of all the Forces in the Kingdom, by <hi>Malcolm</hi> the <hi>Maiden.</hi> And the ſame miſtake ſo pinches another how handſomely to conjoyn <hi>Alexander</hi> the Firſt, with <hi>Allan</hi> the Friſt, that he makes <hi>Alexander</hi> to have been begotten the very year his fa<g ref="char:EOLhyphen"/>ther was at the Siedge of <hi>Antioch,</hi> and counts (as if at Cards) a juſt hun<g ref="char:EOLhyphen"/>dred, and all made; making him with a French <hi>Fortaage</hi> to die in the year, 1199. Whereas this my ſecond <hi>Walter,</hi> and ſecond <hi>Allan</hi> (ſo clearly pro<g ref="char:EOLhyphen"/>ven as aforeſaid) ſalves all theſe Phoenomena from ſo many idle contradi<g ref="char:EOLhyphen"/>ctions and moral impoſſibilities. And if any man ſhall here cavil and ſay, that I cite <hi>Fordon</hi> wrong, when I make him alledge a <hi>Walter</hi> was the foun<g ref="char:EOLhyphen"/>der of <hi>Paisley</hi> when it is known it was <hi>Alexander,</hi> I anſwer, that <hi>Fordon</hi> in the Liberary of <hi>Edinburgh</hi> will atteſt me juſt to him in the Citation. And for <hi>Fordons</hi> Vindication, know, that my ſecond <hi>Walter</hi> witneſſed as much true piety at home, as did his wandering Father of blind Zeal abroad, when upon his being advanced to the Office of <hi>Great Steward</hi> of <hi>Scotland,</hi> he erect<g ref="char:EOLhyphen"/>ed (if not primarily founded) <hi>Paiſley</hi> in a Collegiat Church, conſiderably doting the ſame, which the Devotion of his Son <hi>Alexander</hi> extended, and in<g ref="char:EOLhyphen"/>larged to an <hi>Abbacie.</hi> And in a Book yet extant in <hi>Paſley</hi> commonly called the Regiſter (not <hi>the Black Book</hi>) of <hi>Paſley,</hi> The firſt Benefactor next to the Founder of the Abbacie, ſtands inrolled, <hi>Allan;</hi> which <hi>Allan,</hi> cannot be thought the firſt <hi>Allan,</hi> Grand-Father to the Founder, but muſt be the Se<g ref="char:EOLhyphen"/>cond <hi>Allan,</hi> Son to <hi>Alexander,</hi> and Father to <hi>Walter</hi> the third, commonly called of <hi>Dundonald.</hi>
+            </p>
+            <p>As for the other Perſons in the Deſcent, they are all clear by the Hiſto<g ref="char:EOLhyphen"/>ries of the Kingdom, and the Writes of the Houſe of <hi>Lennox,</hi> fully down to our own Memory and Times.</p>
+            <p>And now from the Premiſſes, I ſuppoſe I have proven my Poſition, even His <hi>Majeſties Deſcent,</hi> in a true Line Male from Father to Son, (in Princes or true Princely Cadets) from the Loines of the firſt <hi>Ethodius,</hi> for fifteen hundred years, and that by as ſtrong Proofs, as the nature of the Subject allows, or in ſuch caſes are required: For the Deſcent of the Houſe of <hi>Len<g ref="char:EOLhyphen"/>nox</hi> (of which was His Majeſties great Grand-Father, on the Father ſide) is uncontroverted from <hi>Walter of Dundonald,</hi> as <hi>Walter of Dundonald</hi> is known (whatever be the perſons) from <hi>Bancho;</hi> and to men that are not prejudi<g ref="char:EOLhyphen"/>cat, and who are free to allow <hi>Kings</hi> to be <hi>Gentlemen,</hi> I need to ſay no more then what is before-mentioned, for <hi>Bancho</hi> from <hi>K. Ethus,</hi> and our Hiſtorians are my Vouchers for <hi>Ethus</hi> from <hi>Ethodius;</hi> and when any Ge<g ref="char:EOLhyphen"/>nealogy of equal Antiquity ſhall be better Documented (ſaving ſtill ſuch as are in the Sacred page) then let not this be believed: But I fancy, ſome
+<pb n="28" facs="tcp:110251:15"/> will raſhly and with confidence enough, ſay, <hi>what will I do with Queen Mary?</hi> Nay, may even her ſoul praiſe God, and her bones reſt in peace with thoſe of <hi>Marjory Bruce,</hi> the Daughter of <hi>Allan of Galloway, David of Huntingtoun,</hi> and <hi>K. Malcolm the ſecond.</hi> I have not been ſo idle, as to aver, that in this Deſcent Male, all his Majeſties Progenitors were <hi>Kings,</hi> ſatisfying my ſelf, that they were either Kings or true Princely, and un<g ref="char:EOLhyphen"/>doubted Cadets from the Stock Royal. Although I have honoured my ſelf, to deduce in the Tree aftermentioned, all the Kings from <hi>Marjory Bruce</hi> to <hi>Queen Mary,</hi> parallel to thoſe of the Houſe of <hi>Lennox,</hi> that it may appear, it may be more juſtly ſaid of His Majeſty, then of the <hi>Roman</hi>
+               <q>—Deus eſt in utroque Parente.</q>
+            </p>
+            <p>But when I deſigned <hi>a Letter,</hi> loe it ſwells to a <hi>Book.</hi> And truſt me, the Singularities in His Majeſties Line, might challange a <hi>Volume;</hi> in its An<g ref="char:EOLhyphen"/>tiquity (whether you view His <hi>Scotiſh, Britiſh,</hi> or <hi>Iriſh</hi> Extract) preferable to any now extant in the <hi>
+                  <g ref="char:V">Ʋ</g>niverſe,</hi> unleſs they go higher then <hi>Fergus, Caſ<g ref="char:EOLhyphen"/>ſibilane,</hi> or <hi>Gathelus,</hi> a Line ſingularly bleſt, to ſhow to the World the firſt two Chriſtian Kings, with the firſt Chriſtian Emperour: Fortunat even in its loſſes; for when the ſtraight Line was broke off, to make way to Colla<g ref="char:EOLhyphen"/>terals, even ſuch lopped Branches Ornamented the Stock with better names then thoſe of Sons and Daughters. Witneſs that <hi>Great Light, Levir Maure,</hi> or the <hi>Britiſh Lucius,</hi> with our firſt <hi>Donald</hi> and <hi>Conſtantine</hi> the <hi>Great,</hi> a <hi>Bri<g ref="char:EOLhyphen"/>ton</hi> by his Mother <hi>Helena,</hi> Daughter to King <hi>Coilus.</hi> To which we may add the Gallantry of <hi>Arthur,</hi> which liſted him one of the nine Worthies of the World: The Devotion of <hi>Cadwallader,</hi> with the Chaſtity of our <hi>Mai<g ref="char:EOLhyphen"/>den King.</hi> And (to take in both Sexes) their <hi>Virgin Queen,</hi> a Line, which next to that of <hi>Judah</hi>'s, ſtands the livelieſt Commentary I know, upon <hi>Solomons, Per me Reges regnant; a Line,</hi> whoſe Crowns from <hi>Gathelus</hi> down, are all but acqueſts in the right of <hi>Succeſſion,</hi> by the common road of Ju<g ref="char:EOLhyphen"/>ſtice and Equity. For whether <hi>Gathelus</hi> entred into <hi>Poſseſſionem vacuam,</hi> or compacted with the Natives, when he firſt came to <hi>Ireland, Quis rem tam veterem pro certo affirmet?</hi> But ſure his authority was from Heaven. For what Fanatick can have a forehead to refuſe, that the Spirit of God aſſiſted the Penman of,
+<q>
+                  <l>nI faLLat fatuM ſCotI qVoCVn<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> LoCatVM</l>
+                  <l>InVenIent LapIDeM regnare tenentVr IbIDeM.</l>
+               </q>
+            </p>
+            <p>Where the four M's, the two D's, three C's, four L's, ſix viſible V's, with the ſeven I's, by a ſtrange numerical Propheſie, holds to the Year of the World, 5537. in which was born K. <hi>James</hi> the ſixth, who found the fa<g ref="char:EOLhyphen"/>tal Chair at <hi>Weſtminſter</hi> before him. <hi>Fergus</hi> was called in by his Kinſmen the <hi>Scots,</hi> and by them of their own conſent, lawfully conſtitute their King. <hi>Kenneth</hi> the Second did but recover the Poſſeſſion of the <hi>Pictiſh</hi> Kingdom, due to him in right of his Grand-mother <hi>Ferguiſiana,</hi> Siſter to <hi>Hungus</hi> King of the <hi>Picts,</hi> after the death of her Nephews <hi>Dorſtolorgus</hi> and <hi>Ethanus:</hi> from which Crown, <hi>Kenneth</hi> and his Father <hi>Alpin,</hi> were debarred by Uſur<g ref="char:EOLhyphen"/>pers of the peoples Election. So that <hi>Kenneths</hi> attaining the Crown of the <hi>Picts,</hi> was not a Conqueſt, but a ſevere example of Gods juſt indignation againſt <hi>Rebells,</hi> in ſecluding the righteous Heir from his Inheritance, the
+<pb n="29" facs="tcp:110251:15"/> 
+               <hi>Picts</hi> after that, never regaining the face or name of a People, Nation, or Kingdom. And the Monarchy of <hi>England</hi> was no gift of Queen <hi>Elizabeths</hi> to King <hi>James,</hi> becauſe a <hi>Protestant;</hi> but his due Inheritance from <hi>K. Hen<g ref="char:EOLhyphen"/>ry</hi> the ſeventh, by his eldeſt Daughter, neither were the Queens words, <hi>James of Scots the Protestant,</hi> but <hi>James of Scots my Couſin.</hi> It is true, happy was the Conjunction in that bleſſed <hi>Peace-maker,</hi> whom Heaven it ſeems had pre<g ref="char:EOLhyphen"/>ordain d to be <hi>
+                  <g ref="char:V">Ʋ</g>nionum <g ref="char:V">Ʋ</g>nio,</hi> a Pearl of price amongſt the other Gems. But woe be to Princes, if Religion, nay rather the Forms, Modes, Sects, con<g ref="char:EOLhyphen"/>ceited Opinions, nicknamed Principles, and parties of aſſumed Deſigna<g ref="char:EOLhyphen"/>tions, from either the diſmembred parts, hems, or Fringes thereof (which in thir dregs of Time, are atomed beyond Arithmetick) come once to be the only Standart of their Scepters. But bleſſed be God, Crowns of the <hi>Lords</hi> anointing do not ſo eaſily totter; conſider that ſtrange Eteoſtick for His Majeſties Birth;
+<q>eCCe VeL angLorVM aC haCtenVs VLLVs oVat. <hi>1630.</hi>
+               </q>
+            </p>
+            <p>As ſtrangely anſwered by the <hi>Minted, Hactenus Anglorum Nullus,</hi> which equally befool'd the Devils, <hi>Nullus</hi> in his <hi>vir puer alecto,</hi> &amp;c. And <hi>Olivers</hi> more helliſh <hi>Nollus,</hi> moſt ſtrangely ſuffering an Ecclipſe and direful <hi>Syna<g ref="char:EOLhyphen"/>laepha,</hi> more ſadly Hiſtorical then Grammatically Proſodiacal, before the <hi>En<g ref="char:EOLhyphen"/>gliſh</hi> can ſcan the <hi>Ovat</hi> of the Reſtauration.</p>
+            <p>And if it were lawful for the Subjects of <hi>Charles</hi> to vote their King by pole, would not the <hi>Scots</hi> do injuſtice to themſelves, ſhould they prefer any to one lawfully deſcended from their own Firſt <hi>Fergus,</hi> when they have here <hi>Lochaber</hi> imped in the Houſe of <hi>Galloway,</hi> by the laſt <hi>Great Steward,</hi> and <hi>Marjory Bruce;</hi> And this from <hi>David</hi> of <hi>Huntingtoun,</hi> Ingraft in the Stock by King <hi>David</hi> the Firſt; that by <hi>Bancho,</hi> and his Progenitors from K. <hi>Ethus.</hi> And if there be yet any of the <hi>Pictiſh</hi> Blood remaining, would they refuſe a Prince from the Loins of their own King <hi>Hungus-Father;</hi> or if there be be<g ref="char:EOLhyphen"/>yond <hi>Tweed,</hi> who delight in variety (and ſickly Stomach's, nauſeat a con<g ref="char:EOLhyphen"/>ſtant Diet) let them here pick and chooſe, which of the <hi>Roſes</hi> ſmelleth ſweeteſt, ſince our <hi>James</hi> the fifth, by his Mother, can furniſh them with either. Will they have the <hi>Normans,</hi> from <hi>France,</hi> or from <hi>Flanders;</hi> be<g ref="char:EOLhyphen"/>fore, or after the Conqueſt; Then our <hi>James</hi> the firſt gives the one by a Daughter of <hi>Somerſet,</hi> from <hi>John</hi> of <hi>Ghaunt,</hi> Son to <hi>Edward</hi> the third; and our <hi>Kenneth</hi> the third, by the Daughter of <hi>William Longeſpee,</hi> does (with<g ref="char:EOLhyphen"/>out a ſtain) ſupply them with the other: Would they have the <hi>outlaw'd Edward</hi> reſtored; our <hi>Malcolme Canmoir</hi> in his <hi>St. Margaret,</hi> hath done it to their hand. Wiſh they the <hi>Danes,</hi> our <hi>James</hi> the fourth by his Mother may pleaſe them. Which of the <hi>Heptarchies</hi> deſire they? <hi>Egbert</hi> the Great can direct them. And what <hi>Welſhman</hi> will refuſe the Ofspring of <hi>Cadwal<g ref="char:EOLhyphen"/>lader,</hi> be he North or South, <hi>Hurſell</hi> will be pleaſed when <hi>Hur</hi> hears, it is by the Wife of <hi>Fleance,</hi> but the Progeny of <hi>Griffith ap Lewelin ap Sitſylth,</hi> Prince of <hi>Guinedh,</hi> and the Lady <hi>Angharad,</hi> Daughter to <hi>Meredith ap Owen,</hi> Prince of <hi>Deheubarth.</hi> And both the Grand-fathers from <hi>Roderick Mawre</hi> (without a doubt) deſcended of <hi>Cadwallader.</hi> Or what will they have? the Native <hi>Britons;</hi> Whether from the <hi>Greater Britain,</hi> or the <hi>Leſſer Bre<g ref="char:EOLhyphen"/>tagne?</hi> And whether before, or after <hi>Lucius</hi> Legacy to the <hi>Romans?</hi> even
+<pb n="30" facs="tcp:110251:16"/> to the Anceſtors of the Founder of their beloved <hi>Trino hantin-Caerlud. Cad<g ref="char:EOLhyphen"/>wallader</hi> then from <hi>Conſtantine,</hi> the Son of <hi>Aldroenus</hi> King of <hi>Armorica</hi> in <hi>France</hi> does for me ſufficiently the one, and their own <hi>Geoffrie</hi> of <hi>Monmouth</hi> ſpares me the labour to do for them the other. Or if yet any wild <hi>Iriſh,</hi> dare offer to diſown the juſter and nobler Scepter of <hi>Gathelus, Simon Breck,</hi> and <hi>Ferquard</hi> the Father of our <hi>Fergus,</hi> it will be eaſie to Harp them a ſpring upon the harſher Title of Conqueſt. Yea, is not our Sacred So<g ref="char:EOLhyphen"/>veraign a King, who by his Predeceſſors, through the Mother of the third <hi>Engliſh Edward</hi> from the fourth <hi>Philip</hi> of <hi>France,</hi> hath (as the neareſt Heir) by the Law of Nations and Nature, a fairer pretence to the <hi>Lillies,</hi> then could in juſtice the Poſterior and more unequitable <hi>Salique</hi> conſtitution, give either to the Houſe of <hi>Valois</hi> or <hi>Bourbon.</hi>
+            </p>
+            <p>Yes, a Line Sir, wherein the Prince Regnant for the time, may with great<g ref="char:EOLhyphen"/>er juſtice then any Potentate under the great beaming Luminary, without complement, name his Vaſſalls his Couſins. For let the <hi>Baronages</hi> of his Treeple Crowned Kingdoms be but impartially ſurveyed; And if they be of any ſtanding, the greateſt Nobility they can glory in, will be found ſoon or ſine, derived to them, by ſome blood-rillet or other, from this very ſame Royal Fountain. So that the <hi>Peerage</hi> (not to ſay how dim thoſe Stars hang in the Firmament of the State, during the leaſt Ecclipſe of the <hi>Monar<g ref="char:EOLhyphen"/>chical Sun,</hi> as was by a total, both lately and ſadly experimented) So that the <hi>Peerage,</hi> I ſay of <hi>Britain</hi> and <hi>Ireland,</hi> are not faithful to their own honour, if they do not here (even without Oaths of <hi>Allegiance</hi>) acknowledge they owe their Native Prince all Homage and Loyalty, ſince moſt of them leave to ſay, that they are <hi>Fleſh of his fleſh, and bone of his bone.</hi>
+            </p>
+            <p>And yet I know not how it comes to paſs, that this very Line ſeems to have equally intail'd upon it the Fate and Bleſſing of <hi>Joſeph.</hi> For the <hi>Ar<g ref="char:EOLhyphen"/>chers</hi> have ſhot at it; yea, verily the Archers have ſhot, and grieved it ſore<g ref="char:EOLhyphen"/>ly, yea, hated it too; but bleſſed be the God of <hi>Jacob,</hi> its Bow yet abid<g ref="char:EOLhyphen"/>eth in its ſtrength; And by the hands of the Almighty, hath it become a fruitful Bough, whoſe Branches have run over the Chriſtal Walls of <hi>Albion.</hi> Is it not then the duty, as well as honour, of all in this <hi>Britiſh</hi> World, to pray that there may never want one from this Stock,
+<q>
+                  <l>—Dum Saecula Mundus</l>
+                  <l>Volvet, qui Patrij Scepiri moderamen habebit.</l>
+               </q>
+            </p>
+         </div>
+         <div type="genealogy">
+            <pb n="31" facs="tcp:110251:16"/>
+            <p>AND now, Sir, I have wearied You; but becauſe <hi>Finis</hi> would contradict the <hi>Verſe,</hi> Let me tell you, I have cauſed deliueat a Genealogical Tree of this His Majesties Deſcent from <hi>Ethodius,</hi> (though at firſt indeed intended only from <hi>Achaius</hi>) which, you, Sir, or any, may, upon a ſmall expence, have either in <hi>Tallyduce,</hi> or <hi>Illuminat</hi> from <hi>George Porteou,</hi> or <hi>Mr. John Sham<g ref="char:EOLhyphen"/>bothy.</hi> And becauſe you know, <hi>&amp; amant alterna Camaenae,</hi> ſuffer me to cloſe with a few fancies I wrote for the handſome adorning of the <hi>Tree;</hi> Where, ſhould you meet with a critical Word, or bold Construction, any crytical Phraſe, or antick Line, you will eaſily, I hope, excuſe it to the antiquity of times, perſonated ſpeakers, and straitneſs of the Compoſure. And ſeing, ſuch is your perfect knowledge in the minuteſt and darkeſt Paſſages of our Hiſtories, any Explanation would but look like him, who painting an Elephant, was ſure to note down the Word, leſt the Creature ſhould have been miſtaken for a Pig. Some of the Lines, if Communi<g ref="char:EOLhyphen"/>cat, may, belike, chance to rouſe and awaken the memories of ſuch as Read our Hi<g ref="char:EOLhyphen"/>ſtories; and to ſuch as care not for them, any Expoſition it but needleſs; to the more knowing Nauſeous, and to the Ignorant Superfluous Seing they are made to the meaneſt Capacity Intelligible in that account, on the ſinister ſide of the <hi>Tree,</hi> where, if any deſire to have it, they may <hi>find, correſponding to the lines on the</hi> Dexter.</p>
+            <lg>
+               <head>
+                  <hi>Ethodius</hi> lying at the root, thus divining, and to the ſecond <hi>Fergus</hi> whiſpering.</head>
+               <l>Poſt <hi>Ferquardiaden</hi> Regem, Rex ordine Quintus</l>
+               <l>Quinqueis enumerans, facta notandacano.</l>
+               <l>Ah <hi>Druides, Druides!</hi> veniet modo <hi>Purior Ara,</hi>
+               </l>
+               <l>Auguror, et <hi>Scotis</hi> ſingula fauſta dabit.</l>
+               <l>Ponè <hi>Mares</hi> novies quinos, ter quinaque Saecla,</l>
+               <l>
+                  <hi>Haeres</hi> Maternum <hi>Mas Diadema</hi> tenet.</l>
+               <l>Ut Pravus Patriis <hi>Corbredus</hi> primus in oris,</l>
+               <l>
+                  <hi>Romulidas aquilas</hi> ſenſerit rapacidas:</l>
+               <l>Sic Atnepotis Nepos <hi>Nidum</hi>
+               </l>
+               <l>Ce<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ner hol<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>la<gap reason="illegible" resp="#MURP" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>um.</l>
+            </lg>
+            <lg>
+               <head>
+                  <hi>Fergus</hi> the ſecond, martially attended with his <hi>Gills,</hi> both <hi>More</hi> and <hi>Beg,</hi> and to <hi>Achius</hi> relating.</head>
+               <l>Cimbria me genuit; <hi>Romano</hi> Milite duro,</l>
+               <l>Expulſis Patriâ, Patre &amp; Evoque meo.</l>
+               <l>Sic <hi>Gothicis</hi> armis vici victricibus, ipſam</l>
+               <l>Invictam Romam: <hi>Spolia Rara</hi> ferens</l>
+               <l>Per varios Caſus repetens Patriam<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> Laremque;</l>
+               <l>
+                  <hi>Aufondies</hi> per Me ſanguine tinxit humum.</l>
+               <l>Majorum Solium conſcendens Marte ſecundo:</l>
+               <l>Priſtina regna, mea condo, reformo mattu.</l>
+               <pb n="32" facs="tcp:110251:17"/>
+               <l>
+                  <hi>Albion</hi> at terni Gnatus pronepotis adauget,</l>
+               <l>Artibus innocuis, nobiliore modo.</l>
+            </lg>
+            <lg>
+               <head>Achaius ſitting in hs Robes and glorifying.</head>
+               <l>Firmavi Regnum, munivi Inſignia <hi>Franco</hi>
+               </l>
+               <l>
+                  <hi>Foedere,</hi> qu <hi>Scotis Gallia</hi> fida cluat:</l>
+               <l>Conjuge ſed <hi>Pictâ,</hi> Prolem foelicius auxi;</l>
+               <l>Quâ mea Poſteritas <hi>Pictica</hi> Sceptra geret.</l>
+            </lg>
+            <lg>
+               <head>Anſwered by Ferguſiana.</head>
+               <l>
+                  <hi>Pictica</hi> Progenie, Soror <hi>Hungi,</hi> Sponſa &amp; <hi>Achaii,</hi>
+               </l>
+               <l>Do dotem <hi>Scotis, Pictica</hi> Regna tuis.</l>
+            </lg>
+            <lg>
+               <head>The Ghoſt of <hi>Alpin</hi> telling,</head>
+               <l>Dum peto Materno <hi>Pictorum</hi> ſanguine Regnum,</l>
+               <l>
+                  <hi>Alecti, Alecto</hi> me truce caede tulit.</l>
+               <l>At Patris, &amp; Patriae <hi>Kennet<gap reason="illegible" resp="#MURP" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>s</hi> Filius ultor;</l>
+               <l>In <hi>Pictos, Scotos</hi> concitat arte nova:</l>
+               <l>Participem<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> facit noſtri vel nominis umbram</l>
+               <l>Vindictae, manes ſic relevando meos.</l>
+            </lg>
+            <lg>
+               <head>
+                  <hi>Kenneth</hi> the ſecond informing.</head>
+               <l>Regna negata Patri, foelici Marte ſubegi,</l>
+               <l>Sanguine juſta mihi, Sceptra cruore tuli:</l>
+               <l>Fatalem &amp; Lapidem <hi>Breccus</hi> quem portat <hi>Ierna<gap reason="illegible" resp="#MURP" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>
+                  </hi>
+               </l>
+               <l>Quem <hi>Ferquardiades</hi> tranſtulit <hi>Argu<gap reason="illegible" resp="#MURP" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>tam;</hi>
+               </l>
+               <l>Carmine Fatidico caelatum, ſede decorum,</l>
+               <l>(Hinc progreſſurum) colloco jure <hi>Sconae.</hi>
+               </l>
+            </lg>
+            <lg>
+               <head>Bancho <hi>rejoycing.</hi>
+               </head>
+               <l>Quae mihi Vatidicae cecinerunt Fata Sorores,</l>
+               <l>Implebunt natis tempora longa meis.</l>
+            </lg>
+            <lg>
+               <head>Mathildis <hi>aſſuring.</hi>
+               </head>
+               <l>Scottorum ducens genus alto è ſanguine Regum,</l>
+               <l>Reſponſi dicar firmior arrha tui.</l>
+            </lg>
+            <lg>
+               <head>The wife of <hi>Fleance</hi> incouraging.</head>
+               <l>—Me pignore cred<gap reason="illegible" resp="#MURP" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>,</l>
+               <l>Pignoribus Sceptrum terra <hi>Britanna</hi> dabit.</l>
+            </lg>
+            <lg>
+               <head>The Heretrix of Bute <hi>pledging.</hi>
+               </head>
+               <l>Ut mihi dos, ſic arrha tibi ſit parvulâ <hi>Bota,</hi>
+               </l>
+               <l>Quod Regnum natis inſula tota manet.</l>
+            </lg>
+            <lg>
+               <pb n="33" facs="tcp:110251:17"/>
+               <head>The daughter of the <hi>Bruce</hi> foretaſting.</head>
+               <l>—Reddet mea laeta Propago,</l>
+               <l>Vaticinata rata—</l>
+            </lg>
+            <lg>
+               <head>Robert <hi>the</hi> 2. <hi>apprehending.</hi>
+               </head>
+               <l>Reddita primus Ego, <hi>Banchom</hi> Gracula vera</l>
+               <l>Experior, Soboli caetera vota manent.</l>
+            </lg>
+            <lg>
+               <head>The confidence of K <hi>James 1.</hi> his <hi>Queen.</hi>
+               </head>
+               <l>Edita Sceptiferis <hi>Anglis,</hi> confido datures</l>
+               <l>
+                  <hi>Saxonidas,</hi> ſtirpi Sceptra aliquando meae.</l>
+            </lg>
+            <lg>
+               <head>Budding in the noſegay of K. <hi>James. 4. his Conſort.</hi>
+               </head>
+               <l>En tibi jungo <hi>Roſas,</hi> Pronepos <hi>Diademata</hi> jungot.</l>
+            </lg>
+            <lg>
+               <head>Queen <hi>Maries</hi> Ingadgement.</head>
+               <l>Foemina quantum vis ego ſum, mihi Maſcula virtus;</l>
+               <l>Atque in Regina Regius eſt animus.</l>
+               <l>Nec dubitent ſexum, Mavortia pectora Sceti;</l>
+               <l>Regia cum Proles, ecce maritus adeſt:</l>
+               <l>Dic quis enim melius <hi>Scotorum</hi> Sceptra gubernet,</l>
+               <l>Quàm qui de <hi>Scotis</hi> Regibus ortus erat?</l>
+            </lg>
+            <lg>
+               <head>Diſcharged by the Lord <hi>Darnly.</hi>
+               </head>
+               <l>Quis thalamum nollet, dederit qui ferre</l>
+            </lg>
+            <lg>
+               <head>The Spea of the Heir of <hi>Cruxtoun,</hi> Wife to <hi>Robert of Torbourtoun.</hi>
+               </head>
+               <l>A <hi>Cruce</hi> deſignor, j' etant &amp; praedia nomen;</l>
+               <l>Praeſagit ſoboli <hi>crux</hi> mea fauſta meae.</l>
+            </lg>
+            <lg>
+               <head>Inlarged by the Oy of the Earl of <hi>Lennox,</hi> Wife to <hi>Allan</hi> Lord <hi>Darnly,</hi> who gives a <hi>Saltyre</hi> betwixt four <hi>Roſes.</hi>
+               </head>
+               <l>
+                  <hi>Crux</hi> mea juncta <hi>Roſis,</hi> Divinat proſpera natis;</l>
+               <l>Queis manet addenda &amp; <hi>Crux,</hi> aliae<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> 
+                  <hi>Roſa:</hi>
+               </l>
+               <l>Quas cum <gap reason="illegible" resp="#MURP" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ta dabunt (ni ſpes mev<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d<gap reason="illegible" resp="#MURP" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> fefellit)</l>
+               <l>Tanc mea juncta <hi>Roſis, Crux</hi> 
+                  <gap reason="illegible" resp="#MURP" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ia Regna <hi>
+                     <gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>cot.</hi>
+               </l>
+            </lg>
+            <lg>
+               <pb n="34" facs="tcp:110251:18"/>
+               <head>Somewhat further cleared by the Wife of <hi>E. Mathew,</hi> kill'd at Flowdoun.</head>
+               <l>En Comitis dicor Conjux, &amp; Regia Neptis;</l>
+               <l>Regia cui Neptis, Pronurus alma venit:</l>
+               <l>Abnurus ipſa venit, Regina, &amp; Filia Regis;</l>
+               <l>Quot titulis à me Quartus adauctus erit?</l>
+            </lg>
+            <lg>
+               <head>More nearly and cloſely illuſtrated by the Wife of the Earl Regent.</head>
+               <l>Stat <hi>Roſa</hi> per <hi>Matrem,</hi> redolens in utro<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> 
+                  <hi>parente,</hi>
+               </l>
+               <l>Quae conjuncta tuis, ſex dabit inde <hi>Roſas:</hi>
+               </l>
+               <l>In<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> Roſa <hi>terna,</hi> quae <hi>ſexta</hi> eſt quae quo<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> 
+                  <hi>prima</hi>
+               </l>
+               <l>Sub <hi>cruce duplari, pax</hi> tria Regna <hi>beet.</hi>
+               </l>
+            </lg>
+            <lg>
+               <head>
+                  <hi>All</hi> authorized by the Confeſſion of <hi>K. James</hi> the ſixth.</head>
+               <l>—de <hi>me,</hi> praeſagia Vates.</l>
+               <l>Quot cecinere olim.—</l>
+            </lg>
+            <lg>
+               <head>Secured by the good fortune of His Majeſty.</head>
+               <l>Sacra Jovi Quercus, Quercuſ<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> cacumina <hi>Carlo</hi>
+               </l>
+               <l>Sacra manent, Arbor ſervit utri<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> 
+                  <hi>Deo.</hi>
+               </l>
+            </lg>
+            <lg>
+               <head>Fortified by the Duke of <hi>Albanie.</hi>
+               </head>
+               <l>Solus Ego, nullâ qui interveniente puellâ</l>
+               <l>Proximus a latere exiſto—</l>
+            </lg>
+            <lg>
+               <head>Supported by the Prince of <hi>Orange.</hi>
+               </head>
+               <l>—Ego per<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> 
+                  <hi>puellas</hi>
+               </l>
+               <l>Proximus a Socero—</l>
+            </lg>
+            <lg>
+               <head>Strengthned by the Queen of <hi>Spain.</hi>
+               </head>
+               <l>Alter Avus <hi>Justus, Martyr</hi> laudatur &amp; alter,</l>
+               <l>
+                  <hi>Catholica</hi> ex meritis dicar an eſſe Patrum?</l>
+            </lg>
+            <lg>
+               <head>Propped by the Gloſse of the Palatine.</head>
+               <l>Imperij <hi>Dapifer Romani,</hi> duco <hi>Stuartam;</hi>
+               </l>
+               <l>Quippe <hi>Seneſcalli</hi> munus utri<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> favet.</l>
+            </lg>
+            <lg>
+               <head>
+                  <hi>Verdant</hi> in the hopes of Lady <hi>Ann.</hi>
+               </head>
+               <l>Po. Regia Virgo, <hi>rubens; pro</hi> Me, Tu <hi>fare</hi> Poeta</l>
+               <l>
+                  <hi>Ni fallat votum,</hi> Regiae Mater <hi>oris.</hi>
+               </l>
+            </lg>
+            <lg>
+               <pb n="35" facs="tcp:110251:18"/>
+               <head>Moſtlie thus recapitulate by <hi>Achaius</hi> to the King.</head>
+               <l>
+                  <hi>Carole</hi> de nobis per tot prognate Nepotes,</l>
+               <l>Qui regis imperio Regna <hi>Britanna</hi> tuo.</l>
+               <l>Quae tritavi quarti profert, Abavi<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> Atavique,</l>
+               <l>Antiquus Genius, paucula mente tene.</l>
+               <l>En ego poſt decies ſenos, Rex ordine quintus,</l>
+               <l>Tranſmiſſa a Proavis, <hi>Scotica</hi> Sceptra ferens:</l>
+               <l>In ſolio Sobolem, ſtabilivi <hi>foedere</hi> duplo;</l>
+               <l>Contulit hoc <hi>Francus,</hi> contulit illud <hi>Hymen.</hi>
+               </l>
+               <l>
+                  <hi>Teutonico Carlo,</hi> pepegi quae foedera, <hi>Scotis,</hi>
+               </l>
+               <l>(Dum tantum <hi>Scoti</hi>) continuata manent.</l>
+               <l>Per<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> faces Thalami, confirmat Sceptra Nepoti,</l>
+               <l>Tum <hi>Themis,</hi> &amp; <hi>Mavors, Pictica</hi> jure pari.</l>
+               <l>Pectore quam laeto, Suſcepit verba <hi>Sororum</hi>
+               </l>
+               <l>
+                  <hi>Lochabrius Bancho,</hi> de Trinepote Nepos.</l>
+               <l>
+                  <hi>Cambria</hi> quam <hi>Scoto</hi> bene nupſit, <hi>Neſta Fleancho,</hi>
+               </l>
+               <l>Conſignans Soboli Sceptra <hi>Britanna</hi> meae,</l>
+               <l>Ille <hi>Seneſcallus, Bruſeâ</hi> de Matre <hi>Robertus,</hi>
+               </l>
+               <l>Promiſſum toties en Diadema capit.</l>
+               <l>Ecce <hi>Caledonio</hi> Tribulo, mage <hi>Gallica</hi> vilent</l>
+               <l>
+                  <hi>Lilia; Saxonicae</hi> quae minus apta <hi>Roſae.</hi>
+               </l>
+               <l>
+                  <hi>Darnlaeo</hi> Agnato, nubens Cognata <hi>Maria;</hi>
+               </l>
+               <l>Fortius en firmat Regna <hi>Britanna</hi> ſuis.</l>
+               <l>Aſpice quàm placidè contendunt Sceptra <hi>Beato</hi>
+               </l>
+               <l>Reddere <hi>pacifico,</hi> Martia Regna tria.</l>
+               <l>Hinc gratus recolens, mi <hi>Carle Secunde,</hi> Secunda</l>
+               <l>Numina, quae ſolio Te impoſuere tuo.</l>
+               <l>Forſitan &amp; dices, ſunt Numina fauſta <hi>Stuartae</hi>
+               </l>
+               <l>Stirpi; quin potius dicito, fauſta Meae.</l>
+               <l>Nam meus eſt <hi>Dorus, Garethus, Bancho, Mathildis:</hi>
+               </l>
+               <l>Et mea dicetur tota <hi>Stuarta</hi> Domus.</l>
+               <l>Quid, Mea dicetur? dicetur &amp; ipſa <hi>Gatheli</hi>
+               </l>
+               <l>Progenies: a quo ducimus omne genus.</l>
+               <l>Utpote <hi>Ferguſius</hi> Scotorum, natus <hi>Ierno</hi>
+               </l>
+               <l>
+                  <hi>Ferquardo,</hi> Nobis ſanguinis autor erat,</l>
+               <l>Cui fuit in Proavis Gentis pater; ille <hi>Gathelus,</hi>
+               </l>
+               <l>
+                  <hi>Celtiber, Heſperio</hi> littore ductor ovans.</l>
+               <l>Regibus his Atavis nulli tu <hi>Carle</hi> Secundus:</l>
+               <l>Quot Faſces Generi Fata dedere tuo.</l>
+               <l>Sceptra<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> ſic Sceptris, cumulavit Conditor Orbis,</l>
+               <l>Coelitus ut dicas, haec data Regna tibi.</l>
+            </lg>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
